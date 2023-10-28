@@ -1,0 +1,63 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+Q6NT16              	    79	    F	    Y	         ?	Q6NT16    	    79	  F	  Y	            benign	     0.001	     0.852	     0.994
+Q6NT16              	    79	    F	    G	         ?	Q6NT16    	    79	  F	  G	            benign	     0.297	     0.114	     0.906
+Q6NT16              	    79	    F	    A	         ?	Q6NT16    	    79	  F	  A	            benign	     0.297	     0.114	     0.906
+Q6NT16              	    79	    F	    L	         ?	Q6NT16    	    79	  F	  L	            benign	     0.242	      0.12	     0.912
+Q6NT16              	    79	    F	    M	         ?	Q6NT16    	    79	  F	  M	 possibly damaging	     0.671	    0.0851	     0.863
+Q6NT16              	    79	    F	    V	         ?	Q6NT16    	    79	  F	  V	 possibly damaging	     0.844	    0.0677	     0.835
+Q6NT16              	    79	    F	    W	         ?	Q6NT16    	    79	  F	  W	 probably damaging	     0.982	    0.0393	     0.748
+Q6NT16              	    79	    F	    Q	         ?	Q6NT16    	    79	  F	  Q	            benign	     0.297	     0.114	     0.906
+Q6NT16              	    79	    F	    K	         ?	Q6NT16    	    79	  F	  K	 possibly damaging	     0.878	    0.0649	     0.825
+Q6NT16              	    79	    F	    E	         ?	Q6NT16    	    79	  F	  E	 possibly damaging	     0.878	    0.0649	     0.825
+Q6NT16              	    79	    F	    S	         ?	Q6NT16    	    79	  F	  S	            benign	     0.242	      0.12	     0.912
+Q6NT16              	    79	    F	    P	         ?	Q6NT16    	    79	  F	  P	 probably damaging	     0.978	    0.0417	     0.756
+Q6NT16              	    79	    F	    I	         ?	Q6NT16    	    79	  F	  I	 possibly damaging	     0.844	    0.0677	     0.835
+Q6NT16              	    79	    F	    C	         ?	Q6NT16    	    79	  F	  C	 probably damaging	     0.992	    0.0314	     0.704
+Q6NT16              	    79	    F	    T	         ?	Q6NT16    	    79	  F	  T	 possibly damaging	     0.936	    0.0568	     0.802
+Q6NT16              	    79	    F	    H	         ?	Q6NT16    	    79	  F	  H	            benign	     0.156	     0.133	     0.921
+Q6NT16              	    79	    F	    R	         ?	Q6NT16    	    79	  F	  R	 possibly damaging	     0.878	    0.0649	     0.825
+Q6NT16              	    79	    F	    N	         ?	Q6NT16    	    79	  F	  N	            benign	     0.074	     0.155	     0.934
+Q6NT16              	    79	    F	    D	         ?	Q6NT16    	    79	  F	  D	 possibly damaging	     0.936	    0.0568	     0.802
+Q6NT16              	    82	    F	    Y	         ?	Q6NT16    	    82	  F	  Y	 possibly damaging	     0.829	    0.0693	     0.837
+Q6NT16              	    82	    F	    G	         ?	Q6NT16    	    82	  F	  G	            benign	     0.006	     0.253	     0.967
+Q6NT16              	    82	    F	    A	         ?	Q6NT16    	    82	  F	  A	            benign	     0.006	     0.253	     0.967
+Q6NT16              	    82	    F	    L	         ?	Q6NT16    	    82	  F	  L	            benign	      0.03	     0.182	     0.947
+Q6NT16              	    82	    F	    M	         ?	Q6NT16    	    82	  F	  M	            benign	     0.075	     0.155	     0.934
+Q6NT16              	    82	    F	    V	         ?	Q6NT16    	    82	  F	  V	            benign	     0.001	     0.852	     0.994
+Q6NT16              	    82	    F	    W	         ?	Q6NT16    	    82	  F	  W	 probably damaging	     0.988	    0.0353	     0.727
+Q6NT16              	    82	    F	    Q	         ?	Q6NT16    	    82	  F	  Q	 possibly damaging	     0.678	    0.0847	     0.862
+Q6NT16              	    82	    F	    K	         ?	Q6NT16    	    82	  F	  K	            benign	       0.3	     0.113	     0.905
+Q6NT16              	    82	    F	    E	         ?	Q6NT16    	    82	  F	  E	 possibly damaging	     0.465	    0.0993	     0.888
+Q6NT16              	    82	    F	    S	         ?	Q6NT16    	    82	  F	  S	            benign	     0.013	     0.216	     0.957
+Q6NT16              	    82	    F	    P	         ?	Q6NT16    	    82	  F	  P	 possibly damaging	     0.865	    0.0662	     0.829
+Q6NT16              	    82	    F	    I	         ?	Q6NT16    	    82	  F	  I	            benign	     0.004	     0.408	     0.975
+Q6NT16              	    82	    F	    C	         ?	Q6NT16    	    82	  F	  C	            benign	     0.002	     0.704	     0.987
+Q6NT16              	    82	    F	    T	         ?	Q6NT16    	    82	  F	  T	            benign	     0.006	     0.253	     0.967
+Q6NT16              	    82	    F	    H	         ?	Q6NT16    	    82	  F	  H	 probably damaging	     0.957	    0.0496	     0.784
+Q6NT16              	    82	    F	    R	         ?	Q6NT16    	    82	  F	  R	 possibly damaging	     0.678	    0.0847	     0.862
+Q6NT16              	    82	    F	    N	         ?	Q6NT16    	    82	  F	  N	 possibly damaging	      0.51	    0.0963	     0.883
+Q6NT16              	    82	    F	    D	         ?	Q6NT16    	    82	  F	  D	 possibly damaging	     0.465	    0.0993	     0.888
+Q6NT16              	    90	    F	    Y	         ?	Q6NT16    	    90	  F	  Y	            benign	       0.1	     0.145	     0.929
+Q6NT16              	    90	    F	    G	         ?	Q6NT16    	    90	  F	  G	 possibly damaging	     0.885	    0.0641	     0.823
+Q6NT16              	    90	    F	    A	         ?	Q6NT16    	    90	  F	  A	            benign	     0.059	     0.162	     0.938
+Q6NT16              	    90	    F	    L	         ?	Q6NT16    	    90	  F	  L	            benign	     0.004	     0.408	     0.975
+Q6NT16              	    90	    F	    M	         ?	Q6NT16    	    90	  F	  M	            benign	     0.129	     0.139	     0.925
+Q6NT16              	    90	    F	    V	         ?	Q6NT16    	    90	  F	  V	            benign	     0.045	     0.169	     0.942
+Q6NT16              	    90	    F	    W	         ?	Q6NT16    	    90	  F	  W	 possibly damaging	     0.655	     0.087	     0.865
+Q6NT16              	    90	    F	    Q	         ?	Q6NT16    	    90	  F	  Q	 possibly damaging	     0.655	     0.087	     0.865
+Q6NT16              	    90	    F	    K	         ?	Q6NT16    	    90	  F	  K	 possibly damaging	      0.93	    0.0578	     0.805
+Q6NT16              	    90	    F	    E	         ?	Q6NT16    	    90	  F	  E	 possibly damaging	      0.93	    0.0578	     0.805
+Q6NT16              	    90	    F	    S	         ?	Q6NT16    	    90	  F	  S	 possibly damaging	     0.542	    0.0949	      0.88
+Q6NT16              	    90	    F	    P	         ?	Q6NT16    	    90	  F	  P	 probably damaging	     0.988	    0.0353	     0.727
+Q6NT16              	    90	    F	    I	         ?	Q6NT16    	    90	  F	  I	            benign	     0.015	     0.209	     0.956
+Q6NT16              	    90	    F	    C	         ?	Q6NT16    	    90	  F	  C	            benign	     0.082	     0.153	     0.933
+Q6NT16              	    90	    F	    T	         ?	Q6NT16    	    90	  F	  T	            benign	     0.129	     0.139	     0.925
+Q6NT16              	    90	    F	    H	         ?	Q6NT16    	    90	  F	  H	 probably damaging	      0.99	    0.0338	     0.719
+Q6NT16              	    90	    F	    R	         ?	Q6NT16    	    90	  F	  R	 possibly damaging	      0.93	    0.0578	     0.805
+Q6NT16              	    90	    F	    N	         ?	Q6NT16    	    90	  F	  N	 probably damaging	     0.964	    0.0472	     0.777
+Q6NT16              	    90	    F	    D	         ?	Q6NT16    	    90	  F	  D	 probably damaging	     0.964	    0.0472	     0.777
+## Sources:
+##   Predictions: PolyPhen-2 v2.2.3r406
+##   Sequences:   UniProtKB/UniRef100 Release 2011_12 (14-Dec-2011)
+##   Structures:  PDB/DSSP Snapshot 25-May-2021 (178229 Structures)
+##   Genes:       UCSC MultiZ46Way GRCh37/hg19 (08-Oct-2009)

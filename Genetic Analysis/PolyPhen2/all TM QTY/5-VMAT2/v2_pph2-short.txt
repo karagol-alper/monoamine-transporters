@@ -1,0 +1,101 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+Q05940              	   334	    F	    Y	         ?	Q05940    	   334	  F	  Y	 possibly damaging	     0.932	    0.0575	     0.804
+Q05940              	   334	    F	    G	         ?	Q05940    	   334	  F	  G	 possibly damaging	     0.948	    0.0532	     0.793
+Q05940              	   334	    F	    A	         ?	Q05940    	   334	  F	  A	 probably damaging	     0.998	    0.0112	     0.273
+Q05940              	   334	    F	    L	         ?	Q05940    	   334	  F	  L	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   334	    F	    M	         ?	Q05940    	   334	  F	  M	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   334	    F	    V	         ?	Q05940    	   334	  F	  V	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   334	    F	    W	         ?	Q05940    	   334	  F	  W	 probably damaging	     0.996	    0.0222	     0.545
+Q05940              	   334	    F	    Q	         ?	Q05940    	   334	  F	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   334	    F	    K	         ?	Q05940    	   334	  F	  K	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   334	    F	    E	         ?	Q05940    	   334	  F	  E	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   334	    F	    S	         ?	Q05940    	   334	  F	  S	 probably damaging	      0.99	    0.0338	     0.719
+Q05940              	   334	    F	    P	         ?	Q05940    	   334	  F	  P	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   334	    F	    I	         ?	Q05940    	   334	  F	  I	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   334	    F	    C	         ?	Q05940    	   334	  F	  C	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   334	    F	    T	         ?	Q05940    	   334	  F	  T	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   334	    F	    H	         ?	Q05940    	   334	  F	  H	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   334	    F	    R	         ?	Q05940    	   334	  F	  R	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   334	    F	    N	         ?	Q05940    	   334	  F	  N	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   334	    F	    D	         ?	Q05940    	   334	  F	  D	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   348	    F	    Y	         ?	Q05940    	   348	  F	  Y	 probably damaging	     0.998	    0.0112	     0.273
+Q05940              	   348	    F	    G	         ?	Q05940    	   348	  F	  G	 probably damaging	     0.983	    0.0387	     0.745
+Q05940              	   348	    F	    A	         ?	Q05940    	   348	  F	  A	 possibly damaging	     0.854	    0.0672	     0.832
+Q05940              	   348	    F	    L	         ?	Q05940    	   348	  F	  L	 possibly damaging	     0.635	     0.089	     0.867
+Q05940              	   348	    F	    M	         ?	Q05940    	   348	  F	  M	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   348	    F	    V	         ?	Q05940    	   348	  F	  V	 probably damaging	     0.988	    0.0353	     0.727
+Q05940              	   348	    F	    W	         ?	Q05940    	   348	  F	  W	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   348	    F	    Q	         ?	Q05940    	   348	  F	  Q	 probably damaging	     0.996	    0.0222	     0.545
+Q05940              	   348	    F	    K	         ?	Q05940    	   348	  F	  K	 probably damaging	     0.983	    0.0387	     0.745
+Q05940              	   348	    F	    E	         ?	Q05940    	   348	  F	  E	 probably damaging	     0.991	    0.0326	     0.711
+Q05940              	   348	    F	    S	         ?	Q05940    	   348	  F	  S	 probably damaging	     0.977	    0.0424	     0.758
+Q05940              	   348	    F	    P	         ?	Q05940    	   348	  F	  P	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   348	    F	    I	         ?	Q05940    	   348	  F	  I	 probably damaging	     0.977	    0.0424	     0.758
+Q05940              	   348	    F	    C	         ?	Q05940    	   348	  F	  C	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   348	    F	    T	         ?	Q05940    	   348	  F	  T	 probably damaging	     0.991	    0.0326	     0.711
+Q05940              	   348	    F	    H	         ?	Q05940    	   348	  F	  H	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   348	    F	    R	         ?	Q05940    	   348	  F	  R	 possibly damaging	     0.698	    0.0825	      0.86
+Q05940              	   348	    F	    N	         ?	Q05940    	   348	  F	  N	            benign	      0.35	     0.109	     0.899
+Q05940              	   348	    F	    D	         ?	Q05940    	   348	  F	  D	 probably damaging	     0.983	    0.0387	     0.745
+Q05940              	   377	    F	    Y	         ?	Q05940    	   377	  F	  Y	 possibly damaging	     0.608	    0.0913	     0.872
+Q05940              	   377	    F	    G	         ?	Q05940    	   377	  F	  G	 possibly damaging	     0.878	    0.0649	     0.825
+Q05940              	   377	    F	    A	         ?	Q05940    	   377	  F	  A	 possibly damaging	     0.503	    0.0966	     0.883
+Q05940              	   377	    F	    L	         ?	Q05940    	   377	  F	  L	            benign	         0	         1	         1
+Q05940              	   377	    F	    M	         ?	Q05940    	   377	  F	  M	 possibly damaging	      0.64	    0.0887	     0.866
+Q05940              	   377	    F	    V	         ?	Q05940    	   377	  F	  V	            benign	     0.136	     0.138	     0.924
+Q05940              	   377	    F	    W	         ?	Q05940    	   377	  F	  W	 probably damaging	     0.988	    0.0353	     0.727
+Q05940              	   377	    F	    Q	         ?	Q05940    	   377	  F	  Q	 possibly damaging	     0.956	    0.0501	     0.785
+Q05940              	   377	    F	    K	         ?	Q05940    	   377	  F	  K	 possibly damaging	     0.878	    0.0649	     0.825
+Q05940              	   377	    F	    E	         ?	Q05940    	   377	  F	  E	 possibly damaging	     0.878	    0.0649	     0.825
+Q05940              	   377	    F	    S	         ?	Q05940    	   377	  F	  S	 possibly damaging	     0.845	    0.0676	     0.835
+Q05940              	   377	    F	    P	         ?	Q05940    	   377	  F	  P	 possibly damaging	     0.956	    0.0501	     0.785
+Q05940              	   377	    F	    I	         ?	Q05940    	   377	  F	  I	            benign	     0.136	     0.138	     0.924
+Q05940              	   377	    F	    C	         ?	Q05940    	   377	  F	  C	 probably damaging	     0.984	    0.0381	     0.743
+Q05940              	   377	    F	    T	         ?	Q05940    	   377	  F	  T	 possibly damaging	     0.503	    0.0966	     0.883
+Q05940              	   377	    F	    H	         ?	Q05940    	   377	  F	  H	 probably damaging	     0.988	    0.0353	     0.727
+Q05940              	   377	    F	    R	         ?	Q05940    	   377	  F	  R	 possibly damaging	     0.878	    0.0649	     0.825
+Q05940              	   377	    F	    N	         ?	Q05940    	   377	  F	  N	 possibly damaging	     0.956	    0.0501	     0.785
+Q05940              	   377	    F	    D	         ?	Q05940    	   377	  F	  D	 possibly damaging	     0.956	    0.0501	     0.785
+Q05940              	   393	    F	    Y	         ?	Q05940    	   393	  F	  Y	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   393	    F	    G	         ?	Q05940    	   393	  F	  G	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   393	    F	    A	         ?	Q05940    	   393	  F	  A	 probably damaging	     0.981	    0.0399	      0.75
+Q05940              	   393	    F	    L	         ?	Q05940    	   393	  F	  L	            benign	      0.11	     0.143	     0.928
+Q05940              	   393	    F	    M	         ?	Q05940    	   393	  F	  M	 probably damaging	     0.995	    0.0277	     0.681
+Q05940              	   393	    F	    V	         ?	Q05940    	   393	  F	  V	            benign	     0.345	     0.109	       0.9
+Q05940              	   393	    F	    W	         ?	Q05940    	   393	  F	  W	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   393	    F	    Q	         ?	Q05940    	   393	  F	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   393	    F	    K	         ?	Q05940    	   393	  F	  K	 probably damaging	     0.997	    0.0167	     0.409
+Q05940              	   393	    F	    E	         ?	Q05940    	   393	  F	  E	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   393	    F	    S	         ?	Q05940    	   393	  F	  S	 probably damaging	     0.996	    0.0222	     0.545
+Q05940              	   393	    F	    P	         ?	Q05940    	   393	  F	  P	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   393	    F	    I	         ?	Q05940    	   393	  F	  I	            benign	     0.181	     0.129	     0.918
+Q05940              	   393	    F	    C	         ?	Q05940    	   393	  F	  C	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   393	    F	    T	         ?	Q05940    	   393	  F	  T	 probably damaging	     0.995	    0.0277	     0.681
+Q05940              	   393	    F	    H	         ?	Q05940    	   393	  F	  H	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   393	    F	    R	         ?	Q05940    	   393	  F	  R	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   393	    F	    N	         ?	Q05940    	   393	  F	  N	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   393	    F	    D	         ?	Q05940    	   393	  F	  D	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   429	    F	    Y	         ?	Q05940    	   429	  F	  Y	 possibly damaging	      0.93	    0.0578	     0.805
+Q05940              	   429	    F	    G	         ?	Q05940    	   429	  F	  G	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   429	    F	    A	         ?	Q05940    	   429	  F	  A	 probably damaging	     0.977	    0.0424	     0.758
+Q05940              	   429	    F	    L	         ?	Q05940    	   429	  F	  L	            benign	     0.041	     0.172	     0.943
+Q05940              	   429	    F	    M	         ?	Q05940    	   429	  F	  M	 probably damaging	     0.993	    0.0301	     0.696
+Q05940              	   429	    F	    V	         ?	Q05940    	   429	  F	  V	 possibly damaging	     0.942	    0.0552	     0.798
+Q05940              	   429	    F	    W	         ?	Q05940    	   429	  F	  W	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   429	    F	    Q	         ?	Q05940    	   429	  F	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   429	    F	    K	         ?	Q05940    	   429	  F	  K	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   429	    F	    E	         ?	Q05940    	   429	  F	  E	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   429	    F	    S	         ?	Q05940    	   429	  F	  S	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   429	    F	    P	         ?	Q05940    	   429	  F	  P	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   429	    F	    I	         ?	Q05940    	   429	  F	  I	 possibly damaging	     0.942	    0.0552	     0.798
+Q05940              	   429	    F	    C	         ?	Q05940    	   429	  F	  C	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   429	    F	    T	         ?	Q05940    	   429	  F	  T	 probably damaging	     0.997	    0.0167	     0.409
+Q05940              	   429	    F	    H	         ?	Q05940    	   429	  F	  H	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   429	    F	    R	         ?	Q05940    	   429	  F	  R	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   429	    F	    N	         ?	Q05940    	   429	  F	  N	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   429	    F	    D	         ?	Q05940    	   429	  F	  D	 probably damaging	     0.999	   0.00574	     0.136
+## Sources:
+##   Predictions: PolyPhen-2 v2.2.3r406
+##   Sequences:   UniProtKB/UniRef100 Release 2011_12 (14-Dec-2011)
+##   Structures:  PDB/DSSP Snapshot 25-May-2021 (178229 Structures)
+##   Genes:       UCSC MultiZ46Way GRCh37/hg19 (08-Oct-2009)

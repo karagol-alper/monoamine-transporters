@@ -1,0 +1,86 @@
+===========================
+Stage 1/7: Validating input
+===========================
+No errors
+
+===============================
+Stage 2/7: Mapping genomic SNPs
+===============================
+No errors
+
+============================
+Stage 3/7: Collecting output
+============================
+No errors
+
+===============================================
+Stage 4/7: Building MSA and annotating proteins
+===============================================
+(P54219:311:F/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>G
+(P54219:311:F/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>A
+(P54219:311:F/M)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>M
+(P54219:311:F/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>W
+(P54219:311:F/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>Q
+(P54219:311:F/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>K
+(P54219:311:F/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>E
+(P54219:311:F/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>P
+(P54219:311:F/T)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>T
+(P54219:311:F/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>H
+(P54219:311:F/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>R
+(P54219:311:F/N)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>N
+(P54219:311:F/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>D
+(P54219:437:F/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>G
+(P54219:437:F/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>A
+(P54219:437:F/M)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>M
+(P54219:437:F/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>W
+(P54219:437:F/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>Q
+(P54219:437:F/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>K
+(P54219:437:F/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>E
+(P54219:437:F/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>P
+(P54219:437:F/T)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>T
+(P54219:437:F/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>H
+(P54219:437:F/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>R
+(P54219:437:F/N)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>N
+(P54219:437:F/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>D
+(P54219:441:F/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>G
+(P54219:441:F/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>A
+(P54219:441:F/M)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>M
+(P54219:441:F/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>W
+(P54219:441:F/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>Q
+(P54219:441:F/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>K
+(P54219:441:F/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>E
+(P54219:441:F/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>P
+(P54219:441:F/T)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>T
+(P54219:441:F/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>H
+(P54219:441:F/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>R
+(P54219:441:F/N)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>N
+(P54219:441:F/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>D
+(P54219:457:F/G)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>G
+(P54219:457:F/A)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>A
+(P54219:457:F/M)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>M
+(P54219:457:F/W)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>W
+(P54219:457:F/Q)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>Q
+(P54219:457:F/K)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>K
+(P54219:457:F/E)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>E
+(P54219:457:F/P)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>P
+(P54219:457:F/T)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>T
+(P54219:457:F/H)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>H
+(P54219:457:F/R)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>R
+(P54219:457:F/N)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>N
+(P54219:457:F/D)         ERROR: find_gene: Not a single-nucleotide AA substitution: F(TTT)>D
+Total errors/warnings: 52
+
+============================
+Stage 5/7: Collecting output
+============================
+No errors
+
+=====================
+Stage 6/7: Predicting
+=====================
+No errors
+
+=============================
+Stage 7/7: Generating reports
+=============================
+No errors

@@ -1,0 +1,804 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+P23975              	    99	    T	    I	rs1805065 	P23975    	    99	  T	  I	            benign	     0.001	     0.852	     0.994
+P23975              	    99	    T	    G	         ?	P23975    	    99	  T	  G	 possibly damaging	     0.699	    0.0824	     0.859
+P23975              	    99	    T	    A	         ?	P23975    	    99	  T	  A	            benign	     0.152	     0.134	     0.921
+P23975              	    99	    T	    L	         ?	P23975    	    99	  T	  L	            benign	     0.001	     0.852	     0.994
+P23975              	    99	    T	    M	         ?	P23975    	    99	  T	  M	 possibly damaging	     0.801	    0.0724	     0.843
+P23975              	    99	    T	    F	         ?	P23975    	    99	  T	  F	            benign	     0.004	     0.408	     0.975
+P23975              	    99	    T	    W	         ?	P23975    	    99	  T	  W	 probably damaging	     0.989	    0.0346	     0.723
+P23975              	    99	    T	    Q	         ?	P23975    	    99	  T	  Q	 probably damaging	     0.961	     0.048	      0.78
+P23975              	    99	    T	    K	         ?	P23975    	    99	  T	  K	 possibly damaging	     0.637	    0.0889	     0.867
+P23975              	    99	    T	    E	         ?	P23975    	    99	  T	  E	 possibly damaging	     0.699	    0.0824	     0.859
+P23975              	    99	    T	    S	         ?	P23975    	    99	  T	  S	 possibly damaging	     0.464	    0.0994	     0.888
+P23975              	    99	    T	    P	         ?	P23975    	    99	  T	  P	            benign	     0.006	     0.253	     0.967
+P23975              	    99	    T	    V	         ?	P23975    	    99	  T	  V	            benign	     0.004	     0.408	     0.975
+P23975              	    99	    T	    C	         ?	P23975    	    99	  T	  C	 probably damaging	     0.989	    0.0346	     0.723
+P23975              	    99	    T	    Y	         ?	P23975    	    99	  T	  Y	 possibly damaging	     0.668	    0.0854	     0.863
+P23975              	    99	    T	    H	         ?	P23975    	    99	  T	  H	 probably damaging	     0.989	    0.0346	     0.723
+P23975              	    99	    T	    R	         ?	P23975    	    99	  T	  R	 possibly damaging	      0.86	    0.0666	     0.831
+P23975              	    99	    T	    N	         ?	P23975    	    99	  T	  N	 probably damaging	     0.961	     0.048	      0.78
+P23975              	    99	    T	    D	         ?	P23975    	    99	  T	  D	 possibly damaging	     0.891	    0.0637	     0.821
+P23975              	   168	    T	    I	         ?	P23975    	   168	  T	  I	 probably damaging	     0.975	    0.0436	     0.762
+P23975              	   168	    T	    G	         ?	P23975    	   168	  T	  G	 probably damaging	     0.999	   0.00574	     0.136
+P23975              	   168	    T	    A	         ?	P23975    	   168	  T	  A	            benign	     0.129	     0.139	     0.925
+P23975              	   168	    T	    L	         ?	P23975    	   168	  T	  L	 possibly damaging	     0.936	    0.0568	     0.802
+P23975              	   168	    T	    M	         ?	P23975    	   168	  T	  M	 probably damaging	     0.999	   0.00574	     0.136
+P23975              	   168	    T	    F	         ?	P23975    	   168	  T	  F	 probably damaging	     0.999	   0.00574	     0.136
+P23975              	   168	    T	    W	         ?	P23975    	   168	  T	  W	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   168	    T	    Q	         ?	P23975    	   168	  T	  Q	 probably damaging	      0.96	    0.0483	     0.781
+P23975              	   168	    T	    K	         ?	P23975    	   168	  T	  K	 possibly damaging	     0.511	    0.0963	     0.883
+P23975              	   168	    T	    E	         ?	P23975    	   168	  T	  E	 possibly damaging	     0.913	    0.0604	     0.813
+P23975              	   168	    T	    S	         ?	P23975    	   168	  T	  S	            benign	     0.129	     0.139	     0.925
+P23975              	   168	    T	    P	         ?	P23975    	   168	  T	  P	 possibly damaging	     0.705	    0.0819	     0.859
+P23975              	   168	    T	    V	         ?	P23975    	   168	  T	  V	 possibly damaging	     0.913	    0.0604	     0.813
+P23975              	   168	    T	    C	         ?	P23975    	   168	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   168	    T	    Y	         ?	P23975    	   168	  T	  Y	 probably damaging	     0.999	   0.00574	     0.136
+P23975              	   168	    T	    H	         ?	P23975    	   168	  T	  H	 probably damaging	     0.999	   0.00574	     0.136
+P23975              	   168	    T	    R	         ?	P23975    	   168	  T	  R	 possibly damaging	     0.549	    0.0947	     0.879
+P23975              	   168	    T	    N	         ?	P23975    	   168	  T	  N	 probably damaging	     0.992	    0.0314	     0.704
+P23975              	   168	    T	    D	         ?	P23975    	   168	  T	  D	 probably damaging	     0.994	    0.0289	     0.689
+P23975              	   186	    T	    I	         ?	P23975    	   186	  T	  I	            benign	     0.037	     0.176	     0.945
+P23975              	   186	    T	    G	         ?	P23975    	   186	  T	  G	 possibly damaging	     0.792	    0.0733	     0.846
+P23975              	   186	    T	    A	         ?	P23975    	   186	  T	  A	            benign	     0.372	     0.108	     0.897
+P23975              	   186	    T	    L	         ?	P23975    	   186	  T	  L	            benign	     0.012	     0.219	     0.958
+P23975              	   186	    T	    M	         ?	P23975    	   186	  T	  M	 possibly damaging	      0.93	    0.0578	     0.805
+P23975              	   186	    T	    F	         ?	P23975    	   186	  T	  F	            benign	     0.105	     0.144	     0.928
+P23975              	   186	    T	    W	         ?	P23975    	   186	  T	  W	            benign	     0.012	     0.219	     0.958
+P23975              	   186	    T	    Q	         ?	P23975    	   186	  T	  Q	 probably damaging	     0.964	    0.0472	     0.777
+P23975              	   186	    T	    K	         ?	P23975    	   186	  T	  K	 possibly damaging	     0.792	    0.0733	     0.846
+P23975              	   186	    T	    E	         ?	P23975    	   186	  T	  E	 possibly damaging	     0.792	    0.0733	     0.846
+P23975              	   186	    T	    S	         ?	P23975    	   186	  T	  S	            benign	     0.016	     0.207	     0.955
+P23975              	   186	    T	    P	         ?	P23975    	   186	  T	  P	 possibly damaging	     0.953	    0.0514	     0.788
+P23975              	   186	    T	    V	         ?	P23975    	   186	  T	  V	            benign	     0.048	     0.167	     0.941
+P23975              	   186	    T	    C	         ?	P23975    	   186	  T	  C	 probably damaging	     0.997	    0.0167	     0.409
+P23975              	   186	    T	    Y	         ?	P23975    	   186	  T	  Y	            benign	     0.048	     0.167	     0.941
+P23975              	   186	    T	    H	         ?	P23975    	   186	  T	  H	 probably damaging	     0.964	    0.0472	     0.777
+P23975              	   186	    T	    R	         ?	P23975    	   186	  T	  R	 possibly damaging	      0.93	    0.0578	     0.805
+P23975              	   186	    T	    N	         ?	P23975    	   186	  T	  N	 possibly damaging	     0.741	    0.0787	     0.853
+P23975              	   186	    T	    D	         ?	P23975    	   186	  T	  D	 possibly damaging	     0.792	    0.0733	     0.846
+P23975              	   353	    T	    I	         ?	P23975    	   353	  T	  I	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    G	         ?	P23975    	   353	  T	  G	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    A	         ?	P23975    	   353	  T	  A	 probably damaging	     0.995	    0.0277	     0.681
+P23975              	   353	    T	    L	         ?	P23975    	   353	  T	  L	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    M	         ?	P23975    	   353	  T	  M	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    F	         ?	P23975    	   353	  T	  F	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    W	         ?	P23975    	   353	  T	  W	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    Q	         ?	P23975    	   353	  T	  Q	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    K	         ?	P23975    	   353	  T	  K	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    E	         ?	P23975    	   353	  T	  E	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    S	         ?	P23975    	   353	  T	  S	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    P	         ?	P23975    	   353	  T	  P	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    V	         ?	P23975    	   353	  T	  V	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    C	         ?	P23975    	   353	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    Y	         ?	P23975    	   353	  T	  Y	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    H	         ?	P23975    	   353	  T	  H	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    R	         ?	P23975    	   353	  T	  R	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    N	         ?	P23975    	   353	  T	  N	 probably damaging	         1	   0.00026	   0.00018
+P23975              	   353	    T	    D	         ?	P23975    	   353	  T	  D	 probably damaging	         1	   0.00026	   0.00018
+Q01959              	   509	    Q	    L	         ?	Q01959    	   509	  Q	  L	            benign	         0	         1	         1
+Q01959              	   509	    Q	    G	         ?	Q01959    	   509	  Q	  G	            benign	     0.049	     0.167	     0.941
+Q01959              	   509	    Q	    A	         ?	Q01959    	   509	  Q	  A	            benign	     0.025	     0.189	     0.949
+Q01959              	   509	    Q	    I	         ?	Q01959    	   509	  Q	  I	            benign	     0.059	     0.162	     0.938
+Q01959              	   509	    Q	    M	         ?	Q01959    	   509	  Q	  M	            benign	     0.304	     0.113	     0.905
+Q01959              	   509	    Q	    F	         ?	Q01959    	   509	  Q	  F	            benign	     0.179	     0.129	     0.918
+Q01959              	   509	    Q	    W	         ?	Q01959    	   509	  Q	  W	 possibly damaging	      0.77	    0.0759	      0.85
+Q01959              	   509	    Q	    T	         ?	Q01959    	   509	  Q	  T	            benign	     0.111	     0.143	     0.928
+Q01959              	   509	    Q	    K	         ?	Q01959    	   509	  Q	  K	            benign	         0	         1	         1
+Q01959              	   509	    Q	    E	         ?	Q01959    	   509	  Q	  E	            benign	         0	         1	         1
+Q01959              	   509	    Q	    S	         ?	Q01959    	   509	  Q	  S	            benign	     0.025	     0.189	     0.949
+Q01959              	   509	    Q	    P	         ?	Q01959    	   509	  Q	  P	            benign	      0.16	     0.132	      0.92
+Q01959              	   509	    Q	    V	         ?	Q01959    	   509	  Q	  V	            benign	     0.059	     0.162	     0.938
+Q01959              	   509	    Q	    C	         ?	Q01959    	   509	  Q	  C	 possibly damaging	      0.91	    0.0609	     0.814
+Q01959              	   509	    Q	    Y	         ?	Q01959    	   509	  Q	  Y	            benign	     0.001	     0.852	     0.994
+Q01959              	   509	    Q	    H	         ?	Q01959    	   509	  Q	  H	            benign	     0.001	     0.852	     0.994
+Q01959              	   509	    Q	    R	         ?	Q01959    	   509	  Q	  R	            benign	     0.019	       0.2	     0.953
+Q01959              	   509	    Q	    N	         ?	Q01959    	   509	  Q	  N	            benign	     0.002	     0.704	     0.987
+Q01959              	   509	    Q	    D	         ?	Q01959    	   509	  Q	  D	            benign	     0.025	     0.189	     0.949
+Q01959              	    46	    T	    I	         ?	Q01959    	    46	  T	  I	            benign	     0.015	     0.209	     0.956
+Q01959              	    46	    T	    G	         ?	Q01959    	    46	  T	  G	            benign	     0.242	      0.12	     0.912
+Q01959              	    46	    T	    A	         ?	Q01959    	    46	  T	  A	            benign	     0.002	     0.704	     0.987
+Q01959              	    46	    T	    L	         ?	Q01959    	    46	  T	  L	            benign	     0.242	      0.12	     0.912
+Q01959              	    46	    T	    M	         ?	Q01959    	    46	  T	  M	 possibly damaging	     0.945	     0.054	     0.796
+Q01959              	    46	    T	    F	         ?	Q01959    	    46	  T	  F	 possibly damaging	      0.82	      0.07	     0.839
+Q01959              	    46	    T	    W	         ?	Q01959    	    46	  T	  W	 probably damaging	     0.981	    0.0399	      0.75
+Q01959              	    46	    T	    Q	         ?	Q01959    	    46	  T	  Q	 possibly damaging	      0.82	      0.07	     0.839
+Q01959              	    46	    T	    K	         ?	Q01959    	    46	  T	  K	 possibly damaging	     0.691	    0.0829	      0.86
+Q01959              	    46	    T	    E	         ?	Q01959    	    46	  T	  E	 possibly damaging	     0.691	    0.0829	      0.86
+Q01959              	    46	    T	    S	         ?	Q01959    	    46	  T	  S	            benign	     0.003	     0.556	     0.981
+Q01959              	    46	    T	    P	         ?	Q01959    	    46	  T	  P	 possibly damaging	     0.774	    0.0755	     0.849
+Q01959              	    46	    T	    V	         ?	Q01959    	    46	  T	  V	            benign	     0.242	      0.12	     0.912
+Q01959              	    46	    T	    C	         ?	Q01959    	    46	  T	  C	            benign	     0.005	      0.26	     0.968
+Q01959              	    46	    T	    Y	         ?	Q01959    	    46	  T	  Y	 possibly damaging	     0.933	    0.0573	     0.804
+Q01959              	    46	    T	    H	         ?	Q01959    	    46	  T	  H	 probably damaging	     0.981	    0.0399	      0.75
+Q01959              	    46	    T	    R	         ?	Q01959    	    46	  T	  R	 possibly damaging	     0.691	    0.0829	      0.86
+Q01959              	    46	    T	    N	         ?	Q01959    	    46	  T	  N	 possibly damaging	     0.628	    0.0892	     0.868
+Q01959              	    46	    T	    D	         ?	Q01959    	    46	  T	  D	 possibly damaging	     0.691	    0.0829	      0.86
+Q01959              	   286	    T	    I	         ?	Q01959    	   286	  T	  I	 possibly damaging	     0.673	     0.085	     0.862
+Q01959              	   286	    T	    G	         ?	Q01959    	   286	  T	  G	 probably damaging	     0.998	    0.0112	     0.273
+Q01959              	   286	    T	    A	         ?	Q01959    	   286	  T	  A	            benign	     0.368	     0.108	     0.898
+Q01959              	   286	    T	    L	         ?	Q01959    	   286	  T	  L	            benign	      0.02	     0.198	     0.952
+Q01959              	   286	    T	    M	         ?	Q01959    	   286	  T	  M	            benign	     0.123	      0.14	     0.926
+Q01959              	   286	    T	    F	         ?	Q01959    	   286	  T	  F	 possibly damaging	     0.936	    0.0568	     0.802
+Q01959              	   286	    T	    W	         ?	Q01959    	   286	  T	  W	 probably damaging	     0.997	    0.0167	     0.409
+Q01959              	   286	    T	    Q	         ?	Q01959    	   286	  T	  Q	            benign	     0.049	     0.167	     0.941
+Q01959              	   286	    T	    K	         ?	Q01959    	   286	  T	  K	 possibly damaging	     0.732	    0.0795	     0.855
+Q01959              	   286	    T	    E	         ?	Q01959    	   286	  T	  E	 possibly damaging	     0.661	    0.0864	     0.864
+Q01959              	   286	    T	    S	         ?	Q01959    	   286	  T	  S	            benign	     0.368	     0.108	     0.898
+Q01959              	   286	    T	    P	         ?	Q01959    	   286	  T	  P	 probably damaging	     0.991	    0.0326	     0.711
+Q01959              	   286	    T	    V	         ?	Q01959    	   286	  T	  V	            benign	     0.357	     0.109	     0.898
+Q01959              	   286	    T	    C	         ?	Q01959    	   286	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+Q01959              	   286	    T	    Y	         ?	Q01959    	   286	  T	  Y	 possibly damaging	     0.936	    0.0568	     0.802
+Q01959              	   286	    T	    H	         ?	Q01959    	   286	  T	  H	            benign	     0.059	     0.162	     0.938
+Q01959              	   286	    T	    R	         ?	Q01959    	   286	  T	  R	 possibly damaging	     0.879	    0.0648	     0.825
+Q01959              	   286	    T	    N	         ?	Q01959    	   286	  T	  N	 possibly damaging	     0.927	    0.0581	     0.807
+Q01959              	   286	    T	    D	         ?	Q01959    	   286	  T	  D	 possibly damaging	     0.944	    0.0544	     0.797
+Q01959              	   566	    T	    I	         ?	Q01959    	   566	  T	  I	            benign	         0	         1	         1
+Q01959              	   566	    T	    G	         ?	Q01959    	   566	  T	  G	            benign	         0	         1	         1
+Q01959              	   566	    T	    A	         ?	Q01959    	   566	  T	  A	            benign	         0	         1	         1
+Q01959              	   566	    T	    L	         ?	Q01959    	   566	  T	  L	            benign	         0	         1	         1
+Q01959              	   566	    T	    M	         ?	Q01959    	   566	  T	  M	            benign	     0.004	     0.408	     0.975
+Q01959              	   566	    T	    F	         ?	Q01959    	   566	  T	  F	            benign	     0.004	     0.408	     0.975
+Q01959              	   566	    T	    W	         ?	Q01959    	   566	  T	  W	 possibly damaging	     0.851	    0.0673	     0.833
+Q01959              	   566	    T	    Q	         ?	Q01959    	   566	  T	  Q	            benign	     0.349	     0.109	       0.9
+Q01959              	   566	    T	    K	         ?	Q01959    	   566	  T	  K	            benign	     0.076	     0.155	     0.934
+Q01959              	   566	    T	    E	         ?	Q01959    	   566	  T	  E	            benign	     0.098	     0.146	      0.93
+Q01959              	   566	    T	    S	         ?	Q01959    	   566	  T	  S	            benign	     0.001	     0.852	     0.994
+Q01959              	   566	    T	    P	         ?	Q01959    	   566	  T	  P	            benign	     0.166	     0.131	      0.92
+Q01959              	   566	    T	    V	         ?	Q01959    	   566	  T	  V	            benign	         0	         1	         1
+Q01959              	   566	    T	    C	         ?	Q01959    	   566	  T	  C	            benign	     0.001	     0.852	     0.994
+Q01959              	   566	    T	    Y	         ?	Q01959    	   566	  T	  Y	            benign	     0.209	     0.124	     0.915
+Q01959              	   566	    T	    H	         ?	Q01959    	   566	  T	  H	 possibly damaging	     0.851	    0.0673	     0.833
+Q01959              	   566	    T	    R	         ?	Q01959    	   566	  T	  R	            benign	     0.166	     0.131	      0.92
+Q01959              	   566	    T	    N	         ?	Q01959    	   566	  T	  N	            benign	     0.209	     0.124	     0.915
+Q01959              	   566	    T	    D	         ?	Q01959    	   566	  T	  D	            benign	     0.209	     0.124	     0.915
+P31645              	    67	    T	    I	         ?	P31645    	    67	  T	  I	            benign	     0.037	     0.176	     0.945
+P31645              	    67	    T	    G	         ?	P31645    	    67	  T	  G	            benign	     0.049	     0.167	     0.941
+P31645              	    67	    T	    A	         ?	P31645    	    67	  T	  A	            benign	     0.001	     0.852	     0.994
+P31645              	    67	    T	    L	         ?	P31645    	    67	  T	  L	            benign	         0	         1	         1
+P31645              	    67	    T	    M	         ?	P31645    	    67	  T	  M	            benign	     0.022	     0.195	     0.951
+P31645              	    67	    T	    F	         ?	P31645    	    67	  T	  F	            benign	     0.001	     0.852	     0.994
+P31645              	    67	    T	    W	         ?	P31645    	    67	  T	  W	 possibly damaging	     0.953	    0.0514	     0.788
+P31645              	    67	    T	    Q	         ?	P31645    	    67	  T	  Q	            benign	     0.199	     0.125	     0.916
+P31645              	    67	    T	    K	         ?	P31645    	    67	  T	  K	            benign	     0.049	     0.167	     0.941
+P31645              	    67	    T	    E	         ?	P31645    	    67	  T	  E	            benign	     0.049	     0.167	     0.941
+P31645              	    67	    T	    S	         ?	P31645    	    67	  T	  S	            benign	     0.003	     0.556	     0.981
+P31645              	    67	    T	    P	         ?	P31645    	    67	  T	  P	            benign	         0	         1	         1
+P31645              	    67	    T	    V	         ?	P31645    	    67	  T	  V	            benign	     0.003	     0.556	     0.981
+P31645              	    67	    T	    C	         ?	P31645    	    67	  T	  C	 possibly damaging	     0.843	    0.0679	     0.835
+P31645              	    67	    T	    Y	         ?	P31645    	    67	  T	  Y	            benign	     0.303	     0.113	     0.905
+P31645              	    67	    T	    H	         ?	P31645    	    67	  T	  H	 possibly damaging	     0.465	    0.0993	     0.888
+P31645              	    67	    T	    R	         ?	P31645    	    67	  T	  R	            benign	     0.199	     0.125	     0.916
+P31645              	    67	    T	    N	         ?	P31645    	    67	  T	  N	            benign	     0.001	     0.852	     0.994
+P31645              	    67	    T	    D	         ?	P31645    	    67	  T	  D	            benign	         0	         1	         1
+P31645              	   178	    T	    I	         ?	P31645    	   178	  T	  I	 probably damaging	     0.999	   0.00574	     0.136
+P31645              	   178	    T	    G	         ?	P31645    	   178	  T	  G	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   178	    T	    A	         ?	P31645    	   178	  T	  A	 probably damaging	     0.974	    0.0438	     0.763
+P31645              	   178	    T	    L	         ?	P31645    	   178	  T	  L	 probably damaging	     0.999	   0.00574	     0.136
+P31645              	   178	    T	    M	         ?	P31645    	   178	  T	  M	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   178	    T	    F	         ?	P31645    	   178	  T	  F	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   178	    T	    W	         ?	P31645    	   178	  T	  W	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   178	    T	    Q	         ?	P31645    	   178	  T	  Q	 probably damaging	     0.982	    0.0393	     0.748
+P31645              	   178	    T	    K	         ?	P31645    	   178	  T	  K	 probably damaging	     0.999	   0.00574	     0.136
+P31645              	   178	    T	    E	         ?	P31645    	   178	  T	  E	 probably damaging	     0.998	    0.0112	     0.273
+P31645              	   178	    T	    S	         ?	P31645    	   178	  T	  S	 probably damaging	     0.994	    0.0289	     0.689
+P31645              	   178	    T	    P	         ?	P31645    	   178	  T	  P	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   178	    T	    V	         ?	P31645    	   178	  T	  V	 probably damaging	     0.998	    0.0112	     0.273
+P31645              	   178	    T	    C	         ?	P31645    	   178	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   178	    T	    Y	         ?	P31645    	   178	  T	  Y	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   178	    T	    H	         ?	P31645    	   178	  T	  H	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   178	    T	    R	         ?	P31645    	   178	  T	  R	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   178	    T	    N	         ?	P31645    	   178	  T	  N	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   178	    T	    D	         ?	P31645    	   178	  T	  D	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   221	    T	    I	         ?	P31645    	   221	  T	  I	            benign	      0.04	     0.173	     0.944
+P31645              	   221	    T	    G	         ?	P31645    	   221	  T	  G	            benign	     0.011	     0.222	     0.959
+P31645              	   221	    T	    A	         ?	P31645    	   221	  T	  A	            benign	         0	         1	         1
+P31645              	   221	    T	    L	         ?	P31645    	   221	  T	  L	            benign	     0.005	      0.26	     0.968
+P31645              	   221	    T	    M	         ?	P31645    	   221	  T	  M	            benign	     0.002	     0.704	     0.987
+P31645              	   221	    T	    F	         ?	P31645    	   221	  T	  F	            benign	     0.228	     0.121	     0.913
+P31645              	   221	    T	    W	         ?	P31645    	   221	  T	  W	 possibly damaging	     0.873	    0.0654	     0.827
+P31645              	   221	    T	    Q	         ?	P31645    	   221	  T	  Q	            benign	     0.049	     0.167	     0.941
+P31645              	   221	    T	    K	         ?	P31645    	   221	  T	  K	            benign	     0.003	     0.556	     0.981
+P31645              	   221	    T	    E	         ?	P31645    	   221	  T	  E	            benign	     0.022	     0.195	     0.951
+P31645              	   221	    T	    S	         ?	P31645    	   221	  T	  S	            benign	         0	         1	         1
+P31645              	   221	    T	    P	         ?	P31645    	   221	  T	  P	 possibly damaging	     0.687	    0.0833	     0.861
+P31645              	   221	    T	    V	         ?	P31645    	   221	  T	  V	            benign	     0.011	     0.222	     0.959
+P31645              	   221	    T	    C	         ?	P31645    	   221	  T	  C	 probably damaging	     0.991	    0.0326	     0.711
+P31645              	   221	    T	    Y	         ?	P31645    	   221	  T	  Y	            benign	     0.375	     0.107	     0.897
+P31645              	   221	    T	    H	         ?	P31645    	   221	  T	  H	            benign	     0.183	     0.128	     0.918
+P31645              	   221	    T	    R	         ?	P31645    	   221	  T	  R	            benign	     0.003	     0.556	     0.981
+P31645              	   221	    T	    N	         ?	P31645    	   221	  T	  N	            benign	     0.001	     0.852	     0.994
+P31645              	   221	    T	    D	         ?	P31645    	   221	  T	  D	            benign	     0.046	     0.169	     0.942
+P31645              	   421	    T	    I	         ?	P31645    	   421	  T	  I	 probably damaging	     0.972	    0.0442	     0.766
+P31645              	   421	    T	    G	         ?	P31645    	   421	  T	  G	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   421	    T	    A	         ?	P31645    	   421	  T	  A	 possibly damaging	     0.909	    0.0611	     0.815
+P31645              	   421	    T	    L	         ?	P31645    	   421	  T	  L	 possibly damaging	      0.93	    0.0578	     0.805
+P31645              	   421	    T	    M	         ?	P31645    	   421	  T	  M	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   421	    T	    F	         ?	P31645    	   421	  T	  F	 possibly damaging	     0.835	    0.0687	     0.836
+P31645              	   421	    T	    W	         ?	P31645    	   421	  T	  W	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   421	    T	    Q	         ?	P31645    	   421	  T	  Q	 probably damaging	     0.996	    0.0222	     0.545
+P31645              	   421	    T	    K	         ?	P31645    	   421	  T	  K	 probably damaging	     0.995	    0.0277	     0.681
+P31645              	   421	    T	    E	         ?	P31645    	   421	  T	  E	 probably damaging	     0.993	    0.0301	     0.696
+P31645              	   421	    T	    S	         ?	P31645    	   421	  T	  S	 possibly damaging	     0.805	    0.0722	     0.842
+P31645              	   421	    T	    P	         ?	P31645    	   421	  T	  P	 possibly damaging	     0.949	    0.0529	     0.792
+P31645              	   421	    T	    V	         ?	P31645    	   421	  T	  V	            benign	     0.203	     0.125	     0.915
+P31645              	   421	    T	    C	         ?	P31645    	   421	  T	  C	 probably damaging	     0.993	    0.0301	     0.696
+P31645              	   421	    T	    Y	         ?	P31645    	   421	  T	  Y	 probably damaging	     0.996	    0.0222	     0.545
+P31645              	   421	    T	    H	         ?	P31645    	   421	  T	  H	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   421	    T	    R	         ?	P31645    	   421	  T	  R	 probably damaging	     0.998	    0.0112	     0.273
+P31645              	   421	    T	    N	         ?	P31645    	   421	  T	  N	 probably damaging	     0.998	    0.0112	     0.273
+P31645              	   421	    T	    D	         ?	P31645    	   421	  T	  D	 probably damaging	     0.998	    0.0112	     0.273
+P31645              	   472	    T	    I	         ?	P31645    	   472	  T	  I	            benign	         0	         1	         1
+P31645              	   472	    T	    G	         ?	P31645    	   472	  T	  G	            benign	     0.005	      0.26	     0.968
+P31645              	   472	    T	    A	         ?	P31645    	   472	  T	  A	            benign	         0	         1	         1
+P31645              	   472	    T	    L	         ?	P31645    	   472	  T	  L	            benign	         0	         1	         1
+P31645              	   472	    T	    M	         ?	P31645    	   472	  T	  M	            benign	     0.262	     0.117	      0.91
+P31645              	   472	    T	    F	         ?	P31645    	   472	  T	  F	            benign	         0	         1	         1
+P31645              	   472	    T	    W	         ?	P31645    	   472	  T	  W	            benign	     0.001	     0.852	     0.994
+P31645              	   472	    T	    Q	         ?	P31645    	   472	  T	  Q	            benign	     0.088	      0.15	     0.932
+P31645              	   472	    T	    K	         ?	P31645    	   472	  T	  K	            benign	      0.04	     0.173	     0.944
+P31645              	   472	    T	    E	         ?	P31645    	   472	  T	  E	            benign	     0.029	     0.183	     0.948
+P31645              	   472	    T	    S	         ?	P31645    	   472	  T	  S	            benign	     0.015	     0.209	     0.956
+P31645              	   472	    T	    P	         ?	P31645    	   472	  T	  P	 possibly damaging	     0.668	    0.0854	     0.863
+P31645              	   472	    T	    V	         ?	P31645    	   472	  T	  V	            benign	         0	         1	         1
+P31645              	   472	    T	    C	         ?	P31645    	   472	  T	  C	 probably damaging	     0.989	    0.0346	     0.723
+P31645              	   472	    T	    Y	         ?	P31645    	   472	  T	  Y	            benign	     0.004	     0.408	     0.975
+P31645              	   472	    T	    H	         ?	P31645    	   472	  T	  H	            benign	     0.419	     0.103	     0.893
+P31645              	   472	    T	    R	         ?	P31645    	   472	  T	  R	            benign	     0.213	     0.123	     0.915
+P31645              	   472	    T	    N	         ?	P31645    	   472	  T	  N	            benign	     0.322	     0.112	     0.903
+P31645              	   472	    T	    D	         ?	P31645    	   472	  T	  D	            benign	     0.387	     0.106	     0.896
+P31645              	   480	    T	    I	         ?	P31645    	   480	  T	  I	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    G	         ?	P31645    	   480	  T	  G	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    A	         ?	P31645    	   480	  T	  A	 probably damaging	     0.984	    0.0381	     0.743
+P31645              	   480	    T	    L	         ?	P31645    	   480	  T	  L	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    M	         ?	P31645    	   480	  T	  M	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    F	         ?	P31645    	   480	  T	  F	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    W	         ?	P31645    	   480	  T	  W	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    Q	         ?	P31645    	   480	  T	  Q	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    K	         ?	P31645    	   480	  T	  K	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    E	         ?	P31645    	   480	  T	  E	 probably damaging	     0.999	   0.00574	     0.136
+P31645              	   480	    T	    S	         ?	P31645    	   480	  T	  S	 probably damaging	     0.984	    0.0381	     0.743
+P31645              	   480	    T	    P	         ?	P31645    	   480	  T	  P	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    V	         ?	P31645    	   480	  T	  V	 probably damaging	     0.999	   0.00574	     0.136
+P31645              	   480	    T	    C	         ?	P31645    	   480	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    Y	         ?	P31645    	   480	  T	  Y	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    H	         ?	P31645    	   480	  T	  H	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    R	         ?	P31645    	   480	  T	  R	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    N	         ?	P31645    	   480	  T	  N	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   480	    T	    D	         ?	P31645    	   480	  T	  D	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    F	         ?	P31645    	   134	  Y	  F	 probably damaging	     0.997	    0.0167	     0.409
+P31645              	   134	    Y	    G	         ?	P31645    	   134	  Y	  G	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    A	         ?	P31645    	   134	  Y	  A	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    T	         ?	P31645    	   134	  Y	  T	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    M	         ?	P31645    	   134	  Y	  M	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    I	         ?	P31645    	   134	  Y	  I	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    W	         ?	P31645    	   134	  Y	  W	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    L	         ?	P31645    	   134	  Y	  L	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    K	         ?	P31645    	   134	  Y	  K	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    E	         ?	P31645    	   134	  Y	  E	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    S	         ?	P31645    	   134	  Y	  S	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    P	         ?	P31645    	   134	  Y	  P	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    V	         ?	P31645    	   134	  Y	  V	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    C	         ?	P31645    	   134	  Y	  C	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    Q	         ?	P31645    	   134	  Y	  Q	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    H	         ?	P31645    	   134	  Y	  H	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    R	         ?	P31645    	   134	  Y	  R	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    N	         ?	P31645    	   134	  Y	  N	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   134	    Y	    D	         ?	P31645    	   134	  Y	  D	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    F	         ?	P31645    	   570	  Y	  F	            benign	     0.089	     0.149	     0.932
+P31645              	   570	    Y	    G	         ?	P31645    	   570	  Y	  G	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    A	         ?	P31645    	   570	  Y	  A	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    T	         ?	P31645    	   570	  Y	  T	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    M	         ?	P31645    	   570	  Y	  M	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    I	         ?	P31645    	   570	  Y	  I	 possibly damaging	     0.948	    0.0532	     0.793
+P31645              	   570	    Y	    W	         ?	P31645    	   570	  Y	  W	 probably damaging	     0.999	   0.00574	     0.136
+P31645              	   570	    Y	    L	         ?	P31645    	   570	  Y	  L	 possibly damaging	     0.871	    0.0656	     0.827
+P31645              	   570	    Y	    K	         ?	P31645    	   570	  Y	  K	 probably damaging	     0.999	   0.00574	     0.136
+P31645              	   570	    Y	    E	         ?	P31645    	   570	  Y	  E	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    S	         ?	P31645    	   570	  Y	  S	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    P	         ?	P31645    	   570	  Y	  P	 probably damaging	     0.961	     0.048	      0.78
+P31645              	   570	    Y	    V	         ?	P31645    	   570	  Y	  V	 probably damaging	     0.999	   0.00574	     0.136
+P31645              	   570	    Y	    C	         ?	P31645    	   570	  Y	  C	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    Q	         ?	P31645    	   570	  Y	  Q	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    H	         ?	P31645    	   570	  Y	  H	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    R	         ?	P31645    	   570	  Y	  R	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    N	         ?	P31645    	   570	  Y	  N	 probably damaging	         1	   0.00026	   0.00018
+P31645              	   570	    Y	    D	         ?	P31645    	   570	  Y	  D	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    I	         ?	P54219    	    39	  T	  I	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    G	         ?	P54219    	    39	  T	  G	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    A	         ?	P54219    	    39	  T	  A	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    L	         ?	P54219    	    39	  T	  L	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    M	         ?	P54219    	    39	  T	  M	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    F	         ?	P54219    	    39	  T	  F	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    W	         ?	P54219    	    39	  T	  W	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    Q	         ?	P54219    	    39	  T	  Q	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    K	         ?	P54219    	    39	  T	  K	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    E	         ?	P54219    	    39	  T	  E	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    S	         ?	P54219    	    39	  T	  S	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    P	         ?	P54219    	    39	  T	  P	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    V	         ?	P54219    	    39	  T	  V	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    C	         ?	P54219    	    39	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    Y	         ?	P54219    	    39	  T	  Y	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    H	         ?	P54219    	    39	  T	  H	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    R	         ?	P54219    	    39	  T	  R	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    N	         ?	P54219    	    39	  T	  N	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    39	    T	    D	         ?	P54219    	    39	  T	  D	 probably damaging	         1	   0.00026	   0.00018
+P54219              	    47	    T	    I	         ?	P54219    	    47	  T	  I	 possibly damaging	     0.921	     0.059	      0.81
+P54219              	    47	    T	    G	         ?	P54219    	    47	  T	  G	 possibly damaging	     0.689	     0.083	     0.861
+P54219              	    47	    T	    A	         ?	P54219    	    47	  T	  A	            benign	     0.004	     0.408	     0.975
+P54219              	    47	    T	    L	         ?	P54219    	    47	  T	  L	 possibly damaging	     0.689	     0.083	     0.861
+P54219              	    47	    T	    M	         ?	P54219    	    47	  T	  M	 probably damaging	     0.997	    0.0167	     0.409
+P54219              	    47	    T	    F	         ?	P54219    	    47	  T	  F	 probably damaging	     0.969	     0.045	      0.77
+P54219              	    47	    T	    W	         ?	P54219    	    47	  T	  W	 probably damaging	     0.997	    0.0167	     0.409
+P54219              	    47	    T	    Q	         ?	P54219    	    47	  T	  Q	 possibly damaging	      0.94	     0.056	     0.799
+P54219              	    47	    T	    K	         ?	P54219    	    47	  T	  K	 possibly damaging	     0.689	     0.083	     0.861
+P54219              	    47	    T	    E	         ?	P54219    	    47	  T	  E	 possibly damaging	     0.816	    0.0707	      0.84
+P54219              	    47	    T	    S	         ?	P54219    	    47	  T	  S	            benign	     0.043	     0.171	     0.943
+P54219              	    47	    T	    P	         ?	P54219    	    47	  T	  P	 probably damaging	      0.96	    0.0483	     0.781
+P54219              	    47	    T	    V	         ?	P54219    	    47	  T	  V	 possibly damaging	     0.689	     0.083	     0.861
+P54219              	    47	    T	    C	         ?	P54219    	    47	  T	  C	 probably damaging	     0.992	    0.0314	     0.704
+P54219              	    47	    T	    Y	         ?	P54219    	    47	  T	  Y	 probably damaging	      0.99	    0.0338	     0.719
+P54219              	    47	    T	    H	         ?	P54219    	    47	  T	  H	 probably damaging	     0.983	    0.0387	     0.745
+P54219              	    47	    T	    R	         ?	P54219    	    47	  T	  R	 possibly damaging	      0.94	     0.056	     0.799
+P54219              	    47	    T	    N	         ?	P54219    	    47	  T	  N	            benign	     0.024	     0.191	      0.95
+P54219              	    47	    T	    D	         ?	P54219    	    47	  T	  D	 possibly damaging	     0.689	     0.083	     0.861
+P54219              	   322	    T	    I	         ?	P54219    	   322	  T	  I	 probably damaging	     0.978	    0.0417	     0.756
+P54219              	   322	    T	    G	         ?	P54219    	   322	  T	  G	 probably damaging	     0.968	    0.0455	     0.772
+P54219              	   322	    T	    A	         ?	P54219    	   322	  T	  A	            benign	     0.039	     0.174	     0.944
+P54219              	   322	    T	    L	         ?	P54219    	   322	  T	  L	 possibly damaging	     0.895	    0.0631	      0.82
+P54219              	   322	    T	    M	         ?	P54219    	   322	  T	  M	 probably damaging	     0.999	   0.00574	     0.136
+P54219              	   322	    T	    F	         ?	P54219    	   322	  T	  F	 probably damaging	     0.992	    0.0314	     0.704
+P54219              	   322	    T	    W	         ?	P54219    	   322	  T	  W	 probably damaging	     0.999	   0.00574	     0.136
+P54219              	   322	    T	    Q	         ?	P54219    	   322	  T	  Q	 probably damaging	     0.992	    0.0314	     0.704
+P54219              	   322	    T	    K	         ?	P54219    	   322	  T	  K	 probably damaging	     0.978	    0.0417	     0.756
+P54219              	   322	    T	    E	         ?	P54219    	   322	  T	  E	 probably damaging	     0.983	    0.0387	     0.745
+P54219              	   322	    T	    S	         ?	P54219    	   322	  T	  S	 possibly damaging	     0.865	    0.0662	     0.829
+P54219              	   322	    T	    P	         ?	P54219    	   322	  T	  P	 probably damaging	     0.989	    0.0346	     0.723
+P54219              	   322	    T	    V	         ?	P54219    	   322	  T	  V	 possibly damaging	     0.895	    0.0631	      0.82
+P54219              	   322	    T	    C	         ?	P54219    	   322	  T	  C	 probably damaging	     0.998	    0.0112	     0.273
+P54219              	   322	    T	    Y	         ?	P54219    	   322	  T	  Y	 probably damaging	     0.999	   0.00574	     0.136
+P54219              	   322	    T	    H	         ?	P54219    	   322	  T	  H	 probably damaging	     0.999	   0.00574	     0.136
+P54219              	   322	    T	    R	         ?	P54219    	   322	  T	  R	 probably damaging	     0.978	    0.0417	     0.756
+P54219              	   322	    T	    N	         ?	P54219    	   322	  T	  N	 probably damaging	     0.992	    0.0314	     0.704
+P54219              	   322	    T	    D	         ?	P54219    	   322	  T	  D	 probably damaging	     0.992	    0.0314	     0.704
+P54219              	   353	    T	    I	         ?	P54219    	   353	  T	  I	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    G	         ?	P54219    	   353	  T	  G	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    A	         ?	P54219    	   353	  T	  A	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    L	         ?	P54219    	   353	  T	  L	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    M	         ?	P54219    	   353	  T	  M	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    F	         ?	P54219    	   353	  T	  F	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    W	         ?	P54219    	   353	  T	  W	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    Q	         ?	P54219    	   353	  T	  Q	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    K	         ?	P54219    	   353	  T	  K	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    E	         ?	P54219    	   353	  T	  E	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    S	         ?	P54219    	   353	  T	  S	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    P	         ?	P54219    	   353	  T	  P	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    V	         ?	P54219    	   353	  T	  V	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    C	         ?	P54219    	   353	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    Y	         ?	P54219    	   353	  T	  Y	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    H	         ?	P54219    	   353	  T	  H	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    R	         ?	P54219    	   353	  T	  R	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    N	         ?	P54219    	   353	  T	  N	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   353	    T	    D	         ?	P54219    	   353	  T	  D	 probably damaging	         1	   0.00026	   0.00018
+P54219              	   464	    T	    I	         ?	P54219    	   464	  T	  I	            benign	         0	         1	         1
+P54219              	   464	    T	    G	         ?	P54219    	   464	  T	  G	            benign	     0.167	     0.131	      0.92
+P54219              	   464	    T	    A	         ?	P54219    	   464	  T	  A	            benign	     0.013	     0.216	     0.957
+P54219              	   464	    T	    L	         ?	P54219    	   464	  T	  L	            benign	         0	         1	         1
+P54219              	   464	    T	    M	         ?	P54219    	   464	  T	  M	            benign	      0.09	     0.149	     0.932
+P54219              	   464	    T	    F	         ?	P54219    	   464	  T	  F	            benign	      0.09	     0.149	     0.932
+P54219              	   464	    T	    W	         ?	P54219    	   464	  T	  W	 possibly damaging	      0.89	    0.0639	     0.821
+P54219              	   464	    T	    Q	         ?	P54219    	   464	  T	  Q	 possibly damaging	     0.682	    0.0841	     0.862
+P54219              	   464	    T	    K	         ?	P54219    	   464	  T	  K	            benign	     0.167	     0.131	      0.92
+P54219              	   464	    T	    E	         ?	P54219    	   464	  T	  E	            benign	     0.167	     0.131	      0.92
+P54219              	   464	    T	    S	         ?	P54219    	   464	  T	  S	            benign	     0.059	     0.162	     0.938
+P54219              	   464	    T	    P	         ?	P54219    	   464	  T	  P	            benign	     0.316	     0.112	     0.903
+P54219              	   464	    T	    V	         ?	P54219    	   464	  T	  V	            benign	     0.001	     0.852	     0.994
+P54219              	   464	    T	    C	         ?	P54219    	   464	  T	  C	 possibly damaging	     0.682	    0.0841	     0.862
+P54219              	   464	    T	    Y	         ?	P54219    	   464	  T	  Y	            benign	     0.167	     0.131	      0.92
+P54219              	   464	    T	    H	         ?	P54219    	   464	  T	  H	 possibly damaging	     0.682	    0.0841	     0.862
+P54219              	   464	    T	    R	         ?	P54219    	   464	  T	  R	            benign	     0.167	     0.131	      0.92
+P54219              	   464	    T	    N	         ?	P54219    	   464	  T	  N	            benign	     0.316	     0.112	     0.903
+P54219              	   464	    T	    D	         ?	P54219    	   464	  T	  D	            benign	     0.167	     0.131	      0.92
+P54219              	   499	    T	    I	         ?	P54219    	   499	  T	  I	 possibly damaging	     0.899	    0.0628	     0.819
+P54219              	   499	    T	    G	         ?	P54219    	   499	  T	  G	 possibly damaging	     0.871	    0.0656	     0.827
+P54219              	   499	    T	    A	         ?	P54219    	   499	  T	  A	 possibly damaging	     0.677	    0.0847	     0.862
+P54219              	   499	    T	    L	         ?	P54219    	   499	  T	  L	 possibly damaging	     0.771	    0.0758	      0.85
+P54219              	   499	    T	    M	         ?	P54219    	   499	  T	  M	 possibly damaging	     0.581	    0.0934	     0.875
+P54219              	   499	    T	    F	         ?	P54219    	   499	  T	  F	 probably damaging	     0.959	    0.0488	     0.782
+P54219              	   499	    T	    W	         ?	P54219    	   499	  T	  W	 probably damaging	     0.998	    0.0112	     0.273
+P54219              	   499	    T	    Q	         ?	P54219    	   499	  T	  Q	 probably damaging	     0.959	    0.0488	     0.782
+P54219              	   499	    T	    K	         ?	P54219    	   499	  T	  K	            benign	     0.083	     0.152	     0.933
+P54219              	   499	    T	    E	         ?	P54219    	   499	  T	  E	 possibly damaging	     0.771	    0.0758	      0.85
+P54219              	   499	    T	    S	         ?	P54219    	   499	  T	  S	 possibly damaging	     0.835	    0.0687	     0.836
+P54219              	   499	    T	    P	         ?	P54219    	   499	  T	  P	 probably damaging	     0.973	     0.044	     0.765
+P54219              	   499	    T	    V	         ?	P54219    	   499	  T	  V	 possibly damaging	     0.771	    0.0758	      0.85
+P54219              	   499	    T	    C	         ?	P54219    	   499	  T	  C	 probably damaging	     0.998	    0.0112	     0.273
+P54219              	   499	    T	    Y	         ?	P54219    	   499	  T	  Y	 probably damaging	     0.993	    0.0301	     0.696
+P54219              	   499	    T	    H	         ?	P54219    	   499	  T	  H	 probably damaging	     0.994	    0.0289	     0.689
+P54219              	   499	    T	    R	         ?	P54219    	   499	  T	  R	            benign	     0.046	     0.169	     0.942
+P54219              	   499	    T	    N	         ?	P54219    	   499	  T	  N	 possibly damaging	     0.947	    0.0535	     0.794
+P54219              	   499	    T	    D	         ?	P54219    	   499	  T	  D	 probably damaging	     0.959	    0.0488	     0.782
+Q05940              	   280	    Q	    L	         ?	Q05940    	   280	  Q	  L	            benign	     0.006	     0.253	     0.967
+Q05940              	   280	    Q	    G	         ?	Q05940    	   280	  Q	  G	 possibly damaging	     0.568	    0.0939	     0.877
+Q05940              	   280	    Q	    A	         ?	Q05940    	   280	  Q	  A	            benign	     0.012	     0.219	     0.958
+Q05940              	   280	    Q	    I	         ?	Q05940    	   280	  Q	  I	            benign	     0.094	     0.147	     0.931
+Q05940              	   280	    Q	    M	         ?	Q05940    	   280	  Q	  M	            benign	     0.364	     0.108	     0.898
+Q05940              	   280	    Q	    F	         ?	Q05940    	   280	  Q	  F	 possibly damaging	     0.864	    0.0663	     0.829
+Q05940              	   280	    Q	    W	         ?	Q05940    	   280	  Q	  W	 probably damaging	     0.998	    0.0112	     0.273
+Q05940              	   280	    Q	    T	         ?	Q05940    	   280	  Q	  T	            benign	     0.012	     0.219	     0.958
+Q05940              	   280	    Q	    K	         ?	Q05940    	   280	  Q	  K	 possibly damaging	     0.664	     0.086	     0.864
+Q05940              	   280	    Q	    E	         ?	Q05940    	   280	  Q	  E	 possibly damaging	     0.664	     0.086	     0.864
+Q05940              	   280	    Q	    S	         ?	Q05940    	   280	  Q	  S	            benign	     0.079	     0.154	     0.933
+Q05940              	   280	    Q	    P	         ?	Q05940    	   280	  Q	  P	 possibly damaging	     0.907	    0.0615	     0.815
+Q05940              	   280	    Q	    V	         ?	Q05940    	   280	  Q	  V	            benign	     0.012	     0.219	     0.958
+Q05940              	   280	    Q	    C	         ?	Q05940    	   280	  Q	  C	 probably damaging	     0.993	    0.0301	     0.696
+Q05940              	   280	    Q	    Y	         ?	Q05940    	   280	  Q	  Y	 probably damaging	     0.993	    0.0301	     0.696
+Q05940              	   280	    Q	    H	         ?	Q05940    	   280	  Q	  H	 probably damaging	      0.99	    0.0338	     0.719
+Q05940              	   280	    Q	    R	         ?	Q05940    	   280	  Q	  R	 possibly damaging	     0.907	    0.0615	     0.815
+Q05940              	   280	    Q	    N	         ?	Q05940    	   280	  Q	  N	 possibly damaging	     0.864	    0.0663	     0.829
+Q05940              	   280	    Q	    D	         ?	Q05940    	   280	  Q	  D	            benign	     0.198	     0.125	     0.916
+Q05940              	   329	    Q	    L	         ?	Q05940    	   329	  Q	  L	            benign	     0.064	     0.159	     0.937
+Q05940              	   329	    Q	    G	         ?	Q05940    	   329	  Q	  G	 possibly damaging	     0.912	    0.0606	     0.814
+Q05940              	   329	    Q	    A	         ?	Q05940    	   329	  Q	  A	 possibly damaging	     0.596	    0.0919	     0.874
+Q05940              	   329	    Q	    I	         ?	Q05940    	   329	  Q	  I	 possibly damaging	     0.838	    0.0685	     0.836
+Q05940              	   329	    Q	    M	         ?	Q05940    	   329	  Q	  M	 probably damaging	     0.987	     0.036	     0.731
+Q05940              	   329	    Q	    F	         ?	Q05940    	   329	  Q	  F	 probably damaging	     0.987	     0.036	     0.731
+Q05940              	   329	    Q	    W	         ?	Q05940    	   329	  Q	  W	 probably damaging	     0.996	    0.0222	     0.545
+Q05940              	   329	    Q	    T	         ?	Q05940    	   329	  Q	  T	            benign	     0.047	     0.168	     0.942
+Q05940              	   329	    Q	    K	         ?	Q05940    	   329	  Q	  K	 possibly damaging	     0.886	     0.064	     0.822
+Q05940              	   329	    Q	    E	         ?	Q05940    	   329	  Q	  E	 possibly damaging	      0.69	    0.0829	      0.86
+Q05940              	   329	    Q	    S	         ?	Q05940    	   329	  Q	  S	 possibly damaging	     0.838	    0.0685	     0.836
+Q05940              	   329	    Q	    P	         ?	Q05940    	   329	  Q	  P	 possibly damaging	      0.94	     0.056	     0.799
+Q05940              	   329	    Q	    V	         ?	Q05940    	   329	  Q	  V	 possibly damaging	     0.838	    0.0685	     0.836
+Q05940              	   329	    Q	    C	         ?	Q05940    	   329	  Q	  C	 probably damaging	     0.987	     0.036	     0.731
+Q05940              	   329	    Q	    Y	         ?	Q05940    	   329	  Q	  Y	 possibly damaging	     0.912	    0.0606	     0.814
+Q05940              	   329	    Q	    H	         ?	Q05940    	   329	  Q	  H	            benign	     0.082	     0.153	     0.933
+Q05940              	   329	    Q	    R	         ?	Q05940    	   329	  Q	  R	 possibly damaging	     0.886	     0.064	     0.822
+Q05940              	   329	    Q	    N	         ?	Q05940    	   329	  Q	  N	 possibly damaging	     0.912	    0.0606	     0.814
+Q05940              	   329	    Q	    D	         ?	Q05940    	   329	  Q	  D	 possibly damaging	     0.912	    0.0606	     0.814
+Q05940              	    68	    T	    I	         ?	Q05940    	    68	  T	  I	            benign	         0	         1	         1
+Q05940              	    68	    T	    G	         ?	Q05940    	    68	  T	  G	            benign	         0	         1	         1
+Q05940              	    68	    T	    A	         ?	Q05940    	    68	  T	  A	            benign	     0.001	     0.852	     0.994
+Q05940              	    68	    T	    L	         ?	Q05940    	    68	  T	  L	            benign	     0.004	     0.408	     0.975
+Q05940              	    68	    T	    M	         ?	Q05940    	    68	  T	  M	            benign	     0.302	     0.113	     0.905
+Q05940              	    68	    T	    F	         ?	Q05940    	    68	  T	  F	            benign	     0.058	     0.162	     0.939
+Q05940              	    68	    T	    W	         ?	Q05940    	    68	  T	  W	 possibly damaging	     0.728	    0.0796	     0.856
+Q05940              	    68	    T	    Q	         ?	Q05940    	    68	  T	  Q	            benign	         0	         1	         1
+Q05940              	    68	    T	    K	         ?	Q05940    	    68	  T	  K	            benign	         0	         1	         1
+Q05940              	    68	    T	    E	         ?	Q05940    	    68	  T	  E	            benign	     0.001	     0.852	     0.994
+Q05940              	    68	    T	    S	         ?	Q05940    	    68	  T	  S	            benign	         0	         1	         1
+Q05940              	    68	    T	    P	         ?	Q05940    	    68	  T	  P	            benign	         0	         1	         1
+Q05940              	    68	    T	    V	         ?	Q05940    	    68	  T	  V	            benign	         0	         1	         1
+Q05940              	    68	    T	    C	         ?	Q05940    	    68	  T	  C	 possibly damaging	     0.467	    0.0992	     0.887
+Q05940              	    68	    T	    Y	         ?	Q05940    	    68	  T	  Y	            benign	     0.001	     0.852	     0.994
+Q05940              	    68	    T	    H	         ?	Q05940    	    68	  T	  H	            benign	         0	         1	         1
+Q05940              	    68	    T	    R	         ?	Q05940    	    68	  T	  R	            benign	         0	         1	         1
+Q05940              	    68	    T	    N	         ?	Q05940    	    68	  T	  N	            benign	     0.019	       0.2	     0.953
+Q05940              	    68	    T	    D	         ?	Q05940    	    68	  T	  D	            benign	         0	         1	         1
+Q05940              	    97	    T	    I	         ?	Q05940    	    97	  T	  I	            benign	         0	         1	         1
+Q05940              	    97	    T	    G	         ?	Q05940    	    97	  T	  G	            benign	         0	         1	         1
+Q05940              	    97	    T	    A	         ?	Q05940    	    97	  T	  A	            benign	         0	         1	         1
+Q05940              	    97	    T	    L	         ?	Q05940    	    97	  T	  L	            benign	     0.003	     0.556	     0.981
+Q05940              	    97	    T	    M	         ?	Q05940    	    97	  T	  M	            benign	     0.195	     0.126	     0.916
+Q05940              	    97	    T	    F	         ?	Q05940    	    97	  T	  F	            benign	     0.017	     0.205	     0.954
+Q05940              	    97	    T	    W	         ?	Q05940    	    97	  T	  W	            benign	     0.195	     0.126	     0.916
+Q05940              	    97	    T	    Q	         ?	Q05940    	    97	  T	  Q	            benign	         0	         1	         1
+Q05940              	    97	    T	    K	         ?	Q05940    	    97	  T	  K	            benign	         0	         1	         1
+Q05940              	    97	    T	    E	         ?	Q05940    	    97	  T	  E	            benign	         0	         1	         1
+Q05940              	    97	    T	    S	         ?	Q05940    	    97	  T	  S	            benign	         0	         1	         1
+Q05940              	    97	    T	    P	         ?	Q05940    	    97	  T	  P	            benign	         0	         1	         1
+Q05940              	    97	    T	    V	         ?	Q05940    	    97	  T	  V	            benign	         0	         1	         1
+Q05940              	    97	    T	    C	         ?	Q05940    	    97	  T	  C	            benign	     0.195	     0.126	     0.916
+Q05940              	    97	    T	    Y	         ?	Q05940    	    97	  T	  Y	            benign	         0	         1	         1
+Q05940              	    97	    T	    H	         ?	Q05940    	    97	  T	  H	            benign	         0	         1	         1
+Q05940              	    97	    T	    R	         ?	Q05940    	    97	  T	  R	            benign	         0	         1	         1
+Q05940              	    97	    T	    N	         ?	Q05940    	    97	  T	  N	            benign	     0.007	     0.246	     0.965
+Q05940              	    97	    T	    D	         ?	Q05940    	    97	  T	  D	            benign	     0.007	     0.246	     0.965
+Q05940              	   103	    T	    I	         ?	Q05940    	   103	  T	  I	            benign	     0.146	     0.135	     0.922
+Q05940              	   103	    T	    G	         ?	Q05940    	   103	  T	  G	            benign	     0.085	     0.151	     0.932
+Q05940              	   103	    T	    A	         ?	Q05940    	   103	  T	  A	            benign	     0.002	     0.704	     0.987
+Q05940              	   103	    T	    L	         ?	Q05940    	   103	  T	  L	            benign	     0.001	     0.852	     0.994
+Q05940              	   103	    T	    M	         ?	Q05940    	   103	  T	  M	 possibly damaging	     0.613	    0.0909	     0.872
+Q05940              	   103	    T	    F	         ?	Q05940    	   103	  T	  F	 possibly damaging	     0.613	    0.0909	     0.872
+Q05940              	   103	    T	    W	         ?	Q05940    	   103	  T	  W	 probably damaging	     0.974	    0.0438	     0.763
+Q05940              	   103	    T	    Q	         ?	Q05940    	   103	  T	  Q	            benign	     0.311	     0.112	     0.904
+Q05940              	   103	    T	    K	         ?	Q05940    	   103	  T	  K	            benign	     0.066	     0.158	     0.936
+Q05940              	   103	    T	    E	         ?	Q05940    	   103	  T	  E	            benign	     0.085	     0.151	     0.932
+Q05940              	   103	    T	    S	         ?	Q05940    	   103	  T	  S	            benign	         0	         1	         1
+Q05940              	   103	    T	    P	         ?	Q05940    	   103	  T	  P	            benign	         0	         1	         1
+Q05940              	   103	    T	    V	         ?	Q05940    	   103	  T	  V	            benign	     0.006	     0.253	     0.967
+Q05940              	   103	    T	    C	         ?	Q05940    	   103	  T	  C	 possibly damaging	     0.762	    0.0768	     0.851
+Q05940              	   103	    T	    Y	         ?	Q05940    	   103	  T	  Y	 possibly damaging	     0.613	    0.0909	     0.872
+Q05940              	   103	    T	    H	         ?	Q05940    	   103	  T	  H	            benign	     0.003	     0.556	     0.981
+Q05940              	   103	    T	    R	         ?	Q05940    	   103	  T	  R	            benign	     0.005	      0.26	     0.968
+Q05940              	   103	    T	    N	         ?	Q05940    	   103	  T	  N	            benign	     0.184	     0.128	     0.918
+Q05940              	   103	    T	    D	         ?	Q05940    	   103	  T	  D	            benign	     0.311	     0.112	     0.904
+Q05940              	   140	    T	    I	         ?	Q05940    	   140	  T	  I	            benign	     0.016	     0.207	     0.955
+Q05940              	   140	    T	    G	         ?	Q05940    	   140	  T	  G	 possibly damaging	     0.655	     0.087	     0.865
+Q05940              	   140	    T	    A	         ?	Q05940    	   140	  T	  A	            benign	     0.372	     0.108	     0.897
+Q05940              	   140	    T	    L	         ?	Q05940    	   140	  T	  L	            benign	     0.002	     0.704	     0.987
+Q05940              	   140	    T	    M	         ?	Q05940    	   140	  T	  M	            benign	     0.129	     0.139	     0.925
+Q05940              	   140	    T	    F	         ?	Q05940    	   140	  T	  F	            benign	     0.105	     0.144	     0.928
+Q05940              	   140	    T	    W	         ?	Q05940    	   140	  T	  W	 probably damaging	     0.997	    0.0167	     0.409
+Q05940              	   140	    T	    Q	         ?	Q05940    	   140	  T	  Q	 probably damaging	     0.964	    0.0472	     0.777
+Q05940              	   140	    T	    K	         ?	Q05940    	   140	  T	  K	 possibly damaging	     0.792	    0.0733	     0.846
+Q05940              	   140	    T	    E	         ?	Q05940    	   140	  T	  E	 possibly damaging	     0.792	    0.0733	     0.846
+Q05940              	   140	    T	    S	         ?	Q05940    	   140	  T	  S	            benign	     0.037	     0.176	     0.945
+Q05940              	   140	    T	    P	         ?	Q05940    	   140	  T	  P	 possibly damaging	     0.953	    0.0514	     0.788
+Q05940              	   140	    T	    V	         ?	Q05940    	   140	  T	  V	            benign	     0.048	     0.167	     0.941
+Q05940              	   140	    T	    C	         ?	Q05940    	   140	  T	  C	 probably damaging	     0.988	    0.0353	     0.727
+Q05940              	   140	    T	    Y	         ?	Q05940    	   140	  T	  Y	 possibly damaging	      0.93	    0.0578	     0.805
+Q05940              	   140	    T	    H	         ?	Q05940    	   140	  T	  H	 probably damaging	     0.997	    0.0167	     0.409
+Q05940              	   140	    T	    R	         ?	Q05940    	   140	  T	  R	 possibly damaging	      0.93	    0.0578	     0.805
+Q05940              	   140	    T	    N	         ?	Q05940    	   140	  T	  N	 possibly damaging	      0.91	    0.0609	     0.814
+Q05940              	   140	    T	    D	         ?	Q05940    	   140	  T	  D	 possibly damaging	     0.792	    0.0733	     0.846
+Q05940              	   153	    T	    I	         ?	Q05940    	   153	  T	  I	 probably damaging	     0.988	    0.0353	     0.727
+Q05940              	   153	    T	    G	         ?	Q05940    	   153	  T	  G	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    A	         ?	Q05940    	   153	  T	  A	 probably damaging	     0.997	    0.0167	     0.409
+Q05940              	   153	    T	    L	         ?	Q05940    	   153	  T	  L	 possibly damaging	     0.896	     0.063	      0.82
+Q05940              	   153	    T	    M	         ?	Q05940    	   153	  T	  M	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    F	         ?	Q05940    	   153	  T	  F	 probably damaging	     0.999	   0.00574	     0.136
+Q05940              	   153	    T	    W	         ?	Q05940    	   153	  T	  W	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    Q	         ?	Q05940    	   153	  T	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    K	         ?	Q05940    	   153	  T	  K	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    E	         ?	Q05940    	   153	  T	  E	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    S	         ?	Q05940    	   153	  T	  S	 probably damaging	     0.994	    0.0289	     0.689
+Q05940              	   153	    T	    P	         ?	Q05940    	   153	  T	  P	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    V	         ?	Q05940    	   153	  T	  V	 probably damaging	     0.991	    0.0326	     0.711
+Q05940              	   153	    T	    C	         ?	Q05940    	   153	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    Y	         ?	Q05940    	   153	  T	  Y	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    H	         ?	Q05940    	   153	  T	  H	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    R	         ?	Q05940    	   153	  T	  R	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    N	         ?	Q05940    	   153	  T	  N	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   153	    T	    D	         ?	Q05940    	   153	  T	  D	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   322	    T	    I	         ?	Q05940    	   322	  T	  I	 possibly damaging	     0.886	     0.064	     0.822
+Q05940              	   322	    T	    G	         ?	Q05940    	   322	  T	  G	 possibly damaging	     0.838	    0.0685	     0.836
+Q05940              	   322	    T	    A	         ?	Q05940    	   322	  T	  A	            benign	     0.167	     0.131	      0.92
+Q05940              	   322	    T	    L	         ?	Q05940    	   322	  T	  L	 possibly damaging	     0.548	    0.0947	     0.879
+Q05940              	   322	    T	    M	         ?	Q05940    	   322	  T	  M	 probably damaging	     0.996	    0.0222	     0.545
+Q05940              	   322	    T	    F	         ?	Q05940    	   322	  T	  F	 probably damaging	     0.987	     0.036	     0.731
+Q05940              	   322	    T	    W	         ?	Q05940    	   322	  T	  W	 probably damaging	     0.996	    0.0222	     0.545
+Q05940              	   322	    T	    Q	         ?	Q05940    	   322	  T	  Q	 possibly damaging	     0.912	    0.0606	     0.814
+Q05940              	   322	    T	    K	         ?	Q05940    	   322	  T	  K	 possibly damaging	     0.838	    0.0685	     0.836
+Q05940              	   322	    T	    E	         ?	Q05940    	   322	  T	  E	            benign	     0.378	     0.107	     0.897
+Q05940              	   322	    T	    S	         ?	Q05940    	   322	  T	  S	            benign	     0.016	     0.207	     0.955
+Q05940              	   322	    T	    P	         ?	Q05940    	   322	  T	  P	 possibly damaging	     0.886	     0.064	     0.822
+Q05940              	   322	    T	    V	         ?	Q05940    	   322	  T	  V	 possibly damaging	     0.912	    0.0606	     0.814
+Q05940              	   322	    T	    C	         ?	Q05940    	   322	  T	  C	 probably damaging	     0.987	     0.036	     0.731
+Q05940              	   322	    T	    Y	         ?	Q05940    	   322	  T	  Y	 probably damaging	     0.987	     0.036	     0.731
+Q05940              	   322	    T	    H	         ?	Q05940    	   322	  T	  H	 probably damaging	     0.987	     0.036	     0.731
+Q05940              	   322	    T	    R	         ?	Q05940    	   322	  T	  R	 possibly damaging	     0.912	    0.0606	     0.814
+Q05940              	   322	    T	    N	         ?	Q05940    	   322	  T	  N	 possibly damaging	     0.796	    0.0729	     0.844
+Q05940              	   322	    T	    D	         ?	Q05940    	   322	  T	  D	 possibly damaging	     0.838	    0.0685	     0.836
+Q05940              	   293	    Y	    F	         ?	Q05940    	   293	  Y	  F	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    G	         ?	Q05940    	   293	  Y	  G	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    A	         ?	Q05940    	   293	  Y	  A	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    T	         ?	Q05940    	   293	  Y	  T	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    M	         ?	Q05940    	   293	  Y	  M	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    I	         ?	Q05940    	   293	  Y	  I	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    W	         ?	Q05940    	   293	  Y	  W	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    L	         ?	Q05940    	   293	  Y	  L	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    K	         ?	Q05940    	   293	  Y	  K	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    E	         ?	Q05940    	   293	  Y	  E	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    S	         ?	Q05940    	   293	  Y	  S	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    P	         ?	Q05940    	   293	  Y	  P	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    V	         ?	Q05940    	   293	  Y	  V	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    C	         ?	Q05940    	   293	  Y	  C	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    Q	         ?	Q05940    	   293	  Y	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    H	         ?	Q05940    	   293	  Y	  H	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    R	         ?	Q05940    	   293	  Y	  R	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    N	         ?	Q05940    	   293	  Y	  N	 probably damaging	         1	   0.00026	   0.00018
+Q05940              	   293	    Y	    D	         ?	Q05940    	   293	  Y	  D	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	    81	    T	    I	         ?	Q16572    	    81	  T	  I	            benign	         0	         1	         1
+Q16572              	    81	    T	    G	         ?	Q16572    	    81	  T	  G	            benign	     0.022	     0.195	     0.951
+Q16572              	    81	    T	    A	         ?	Q16572    	    81	  T	  A	            benign	         0	         1	         1
+Q16572              	    81	    T	    L	         ?	Q16572    	    81	  T	  L	            benign	     0.003	     0.556	     0.981
+Q16572              	    81	    T	    M	         ?	Q16572    	    81	  T	  M	            benign	     0.278	     0.116	     0.908
+Q16572              	    81	    T	    F	         ?	Q16572    	    81	  T	  F	            benign	     0.278	     0.116	     0.908
+Q16572              	    81	    T	    W	         ?	Q16572    	    81	  T	  W	 possibly damaging	       0.9	    0.0627	     0.818
+Q16572              	    81	    T	    Q	         ?	Q16572    	    81	  T	  Q	            benign	     0.099	     0.146	      0.93
+Q16572              	    81	    T	    K	         ?	Q16572    	    81	  T	  K	            benign	     0.022	     0.195	     0.951
+Q16572              	    81	    T	    E	         ?	Q16572    	    81	  T	  E	            benign	     0.043	     0.171	     0.943
+Q16572              	    81	    T	    S	         ?	Q16572    	    81	  T	  S	            benign	     0.001	     0.852	     0.994
+Q16572              	    81	    T	    P	         ?	Q16572    	    81	  T	  P	            benign	         0	         1	         1
+Q16572              	    81	    T	    V	         ?	Q16572    	    81	  T	  V	            benign	     0.003	     0.556	     0.981
+Q16572              	    81	    T	    C	         ?	Q16572    	    81	  T	  C	 possibly damaging	     0.704	     0.082	     0.859
+Q16572              	    81	    T	    Y	         ?	Q16572    	    81	  T	  Y	            benign	     0.438	     0.101	     0.891
+Q16572              	    81	    T	    H	         ?	Q16572    	    81	  T	  H	 possibly damaging	     0.704	     0.082	     0.859
+Q16572              	    81	    T	    R	         ?	Q16572    	    81	  T	  R	            benign	         0	         1	         1
+Q16572              	    81	    T	    N	         ?	Q16572    	    81	  T	  N	            benign	     0.144	     0.136	     0.922
+Q16572              	    81	    T	    D	         ?	Q16572    	    81	  T	  D	            benign	     0.182	     0.128	     0.918
+Q16572              	    97	    T	    I	         ?	Q16572    	    97	  T	  I	            benign	     0.119	     0.141	     0.926
+Q16572              	    97	    T	    G	         ?	Q16572    	    97	  T	  G	            benign	     0.069	     0.157	     0.935
+Q16572              	    97	    T	    A	         ?	Q16572    	    97	  T	  A	            benign	         0	         1	         1
+Q16572              	    97	    T	    L	         ?	Q16572    	    97	  T	  L	            benign	     0.005	      0.26	     0.968
+Q16572              	    97	    T	    M	         ?	Q16572    	    97	  T	  M	 possibly damaging	     0.719	    0.0804	     0.857
+Q16572              	    97	    T	    F	         ?	Q16572    	    97	  T	  F	 possibly damaging	     0.719	    0.0804	     0.857
+Q16572              	    97	    T	    W	         ?	Q16572    	    97	  T	  W	 probably damaging	     0.967	     0.046	     0.773
+Q16572              	    97	    T	    Q	         ?	Q16572    	    97	  T	  Q	            benign	     0.264	     0.117	      0.91
+Q16572              	    97	    T	    K	         ?	Q16572    	    97	  T	  K	            benign	     0.129	     0.139	     0.925
+Q16572              	    97	    T	    E	         ?	Q16572    	    97	  T	  E	            benign	     0.001	     0.852	     0.994
+Q16572              	    97	    T	    S	         ?	Q16572    	    97	  T	  S	            benign	     0.004	     0.408	     0.975
+Q16572              	    97	    T	    P	         ?	Q16572    	    97	  T	  P	            benign	     0.001	     0.852	     0.994
+Q16572              	    97	    T	    V	         ?	Q16572    	    97	  T	  V	            benign	     0.069	     0.157	     0.935
+Q16572              	    97	    T	    C	         ?	Q16572    	    97	  T	  C	 possibly damaging	     0.906	    0.0617	     0.816
+Q16572              	    97	    T	    Y	         ?	Q16572    	    97	  T	  Y	 possibly damaging	     0.886	     0.064	     0.822
+Q16572              	    97	    T	    H	         ?	Q16572    	    97	  T	  H	 possibly damaging	     0.719	    0.0804	     0.857
+Q16572              	    97	    T	    R	         ?	Q16572    	    97	  T	  R	            benign	     0.264	     0.117	      0.91
+Q16572              	    97	    T	    N	         ?	Q16572    	    97	  T	  N	            benign	         0	         1	         1
+Q16572              	    97	    T	    D	         ?	Q16572    	    97	  T	  D	            benign	     0.001	     0.852	     0.994
+Q16572              	   311	    T	    I	         ?	Q16572    	   311	  T	  I	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    G	         ?	Q16572    	   311	  T	  G	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    A	         ?	Q16572    	   311	  T	  A	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    L	         ?	Q16572    	   311	  T	  L	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    M	         ?	Q16572    	   311	  T	  M	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    F	         ?	Q16572    	   311	  T	  F	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    W	         ?	Q16572    	   311	  T	  W	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    Q	         ?	Q16572    	   311	  T	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    K	         ?	Q16572    	   311	  T	  K	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    E	         ?	Q16572    	   311	  T	  E	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    S	         ?	Q16572    	   311	  T	  S	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    P	         ?	Q16572    	   311	  T	  P	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    V	         ?	Q16572    	   311	  T	  V	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    C	         ?	Q16572    	   311	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    Y	         ?	Q16572    	   311	  T	  Y	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    H	         ?	Q16572    	   311	  T	  H	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    R	         ?	Q16572    	   311	  T	  R	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    N	         ?	Q16572    	   311	  T	  N	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   311	    T	    D	         ?	Q16572    	   311	  T	  D	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   236	    Y	    F	         ?	Q16572    	   236	  Y	  F	            benign	     0.438	     0.101	     0.891
+Q16572              	   236	    Y	    G	         ?	Q16572    	   236	  Y	  G	 probably damaging	     0.981	    0.0399	      0.75
+Q16572              	   236	    Y	    A	         ?	Q16572    	   236	  Y	  A	 probably damaging	     0.962	    0.0478	     0.779
+Q16572              	   236	    Y	    T	         ?	Q16572    	   236	  Y	  T	 possibly damaging	     0.857	    0.0669	     0.831
+Q16572              	   236	    Y	    M	         ?	Q16572    	   236	  Y	  M	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   236	    Y	    I	         ?	Q16572    	   236	  Y	  I	 probably damaging	     0.981	    0.0399	      0.75
+Q16572              	   236	    Y	    W	         ?	Q16572    	   236	  Y	  W	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   236	    Y	    L	         ?	Q16572    	   236	  Y	  L	 probably damaging	     0.962	    0.0478	     0.779
+Q16572              	   236	    Y	    K	         ?	Q16572    	   236	  Y	  K	 probably damaging	     0.981	    0.0399	      0.75
+Q16572              	   236	    Y	    E	         ?	Q16572    	   236	  Y	  E	 probably damaging	     0.962	    0.0478	     0.779
+Q16572              	   236	    Y	    S	         ?	Q16572    	   236	  Y	  S	 probably damaging	     0.975	    0.0436	     0.762
+Q16572              	   236	    Y	    P	         ?	Q16572    	   236	  Y	  P	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   236	    Y	    V	         ?	Q16572    	   236	  Y	  V	 probably damaging	     0.962	    0.0478	     0.779
+Q16572              	   236	    Y	    C	         ?	Q16572    	   236	  Y	  C	            benign	     0.306	     0.113	     0.904
+Q16572              	   236	    Y	    Q	         ?	Q16572    	   236	  Y	  Q	 probably damaging	     0.981	    0.0399	      0.75
+Q16572              	   236	    Y	    H	         ?	Q16572    	   236	  Y	  H	            benign	     0.306	     0.113	     0.904
+Q16572              	   236	    Y	    R	         ?	Q16572    	   236	  Y	  R	 probably damaging	     0.981	    0.0399	      0.75
+Q16572              	   236	    Y	    N	         ?	Q16572    	   236	  Y	  N	 possibly damaging	     0.951	    0.0522	      0.79
+Q16572              	   236	    Y	    D	         ?	Q16572    	   236	  Y	  D	 probably damaging	     0.975	    0.0436	     0.762
+Q16572              	   359	    Y	    F	         ?	Q16572    	   359	  Y	  F	 possibly damaging	     0.952	    0.0518	     0.789
+Q16572              	   359	    Y	    G	         ?	Q16572    	   359	  Y	  G	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   359	    Y	    A	         ?	Q16572    	   359	  Y	  A	 probably damaging	     0.963	    0.0475	     0.778
+Q16572              	   359	    Y	    T	         ?	Q16572    	   359	  Y	  T	 probably damaging	     0.982	    0.0393	     0.748
+Q16572              	   359	    Y	    M	         ?	Q16572    	   359	  Y	  M	            benign	     0.302	     0.113	     0.905
+Q16572              	   359	    Y	    I	         ?	Q16572    	   359	  Y	  I	            benign	     0.261	     0.118	      0.91
+Q16572              	   359	    Y	    W	         ?	Q16572    	   359	  Y	  W	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   359	    Y	    L	         ?	Q16572    	   359	  Y	  L	            benign	     0.129	     0.139	     0.925
+Q16572              	   359	    Y	    K	         ?	Q16572    	   359	  Y	  K	 probably damaging	     0.995	    0.0277	     0.681
+Q16572              	   359	    Y	    E	         ?	Q16572    	   359	  Y	  E	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   359	    Y	    S	         ?	Q16572    	   359	  Y	  S	 probably damaging	     0.976	     0.043	      0.76
+Q16572              	   359	    Y	    P	         ?	Q16572    	   359	  Y	  P	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   359	    Y	    V	         ?	Q16572    	   359	  Y	  V	 possibly damaging	     0.845	    0.0676	     0.835
+Q16572              	   359	    Y	    C	         ?	Q16572    	   359	  Y	  C	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   359	    Y	    Q	         ?	Q16572    	   359	  Y	  Q	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   359	    Y	    H	         ?	Q16572    	   359	  Y	  H	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   359	    Y	    R	         ?	Q16572    	   359	  Y	  R	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   359	    Y	    N	         ?	Q16572    	   359	  Y	  N	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   359	    Y	    D	         ?	Q16572    	   359	  Y	  D	 probably damaging	     0.998	    0.0112	     0.273
+Q6NT16              	   114	    T	    I	         ?	Q6NT16    	   114	  T	  I	            benign	     0.392	     0.105	     0.896
+Q6NT16              	   114	    T	    G	         ?	Q6NT16    	   114	  T	  G	 possibly damaging	     0.956	    0.0501	     0.785
+Q6NT16              	   114	    T	    A	         ?	Q6NT16    	   114	  T	  A	            benign	     0.213	     0.123	     0.915
+Q6NT16              	   114	    T	    L	         ?	Q6NT16    	   114	  T	  L	            benign	     0.264	     0.117	      0.91
+Q6NT16              	   114	    T	    M	         ?	Q6NT16    	   114	  T	  M	 possibly damaging	     0.956	    0.0501	     0.785
+Q6NT16              	   114	    T	    F	         ?	Q6NT16    	   114	  T	  F	 probably damaging	     0.994	    0.0289	     0.689
+Q6NT16              	   114	    T	    W	         ?	Q6NT16    	   114	  T	  W	 probably damaging	     0.975	    0.0436	     0.762
+Q6NT16              	   114	    T	    Q	         ?	Q6NT16    	   114	  T	  Q	 possibly damaging	     0.901	    0.0625	     0.818
+Q6NT16              	   114	    T	    K	         ?	Q6NT16    	   114	  T	  K	 probably damaging	     0.971	    0.0444	     0.768
+Q6NT16              	   114	    T	    E	         ?	Q6NT16    	   114	  T	  E	 possibly damaging	     0.819	    0.0702	     0.839
+Q6NT16              	   114	    T	    S	         ?	Q6NT16    	   114	  T	  S	            benign	     0.213	     0.123	     0.915
+Q6NT16              	   114	    T	    P	         ?	Q6NT16    	   114	  T	  P	 probably damaging	     0.997	    0.0167	     0.409
+Q6NT16              	   114	    T	    V	         ?	Q6NT16    	   114	  T	  V	 possibly damaging	     0.461	    0.0994	     0.888
+Q6NT16              	   114	    T	    C	         ?	Q6NT16    	   114	  T	  C	 possibly damaging	     0.609	    0.0912	     0.872
+Q6NT16              	   114	    T	    Y	         ?	Q6NT16    	   114	  T	  Y	 probably damaging	     0.994	    0.0289	     0.689
+Q6NT16              	   114	    T	    H	         ?	Q6NT16    	   114	  T	  H	 possibly damaging	     0.917	    0.0597	     0.812
+Q6NT16              	   114	    T	    R	         ?	Q6NT16    	   114	  T	  R	 probably damaging	     0.992	    0.0314	     0.704
+Q6NT16              	   114	    T	    N	         ?	Q6NT16    	   114	  T	  N	 possibly damaging	     0.461	    0.0994	     0.888
+Q6NT16              	   114	    T	    D	         ?	Q6NT16    	   114	  T	  D	 probably damaging	     0.987	     0.036	     0.731
+Q6NT16              	   257	    T	    I	         ?	Q6NT16    	   257	  T	  I	            benign	     0.432	     0.102	     0.892
+Q6NT16              	   257	    T	    G	         ?	Q6NT16    	   257	  T	  G	 possibly damaging	     0.942	    0.0552	     0.798
+Q6NT16              	   257	    T	    A	         ?	Q6NT16    	   257	  T	  A	 probably damaging	     0.988	    0.0353	     0.727
+Q6NT16              	   257	    T	    L	         ?	Q6NT16    	   257	  T	  L	 possibly damaging	     0.745	    0.0785	     0.853
+Q6NT16              	   257	    T	    M	         ?	Q6NT16    	   257	  T	  M	 probably damaging	     0.999	   0.00574	     0.136
+Q6NT16              	   257	    T	    F	         ?	Q6NT16    	   257	  T	  F	 probably damaging	     0.983	    0.0387	     0.745
+Q6NT16              	   257	    T	    W	         ?	Q6NT16    	   257	  T	  W	 probably damaging	         1	   0.00026	   0.00018
+Q6NT16              	   257	    T	    Q	         ?	Q6NT16    	   257	  T	  Q	 probably damaging	     0.991	    0.0326	     0.711
+Q6NT16              	   257	    T	    K	         ?	Q6NT16    	   257	  T	  K	 possibly damaging	     0.566	    0.0939	     0.877
+Q6NT16              	   257	    T	    E	         ?	Q6NT16    	   257	  T	  E	 probably damaging	     0.983	    0.0387	     0.745
+Q6NT16              	   257	    T	    S	         ?	Q6NT16    	   257	  T	  S	 possibly damaging	     0.835	    0.0687	     0.836
+Q6NT16              	   257	    T	    P	         ?	Q6NT16    	   257	  T	  P	 probably damaging	     0.994	    0.0289	     0.689
+Q6NT16              	   257	    T	    V	         ?	Q6NT16    	   257	  T	  V	 possibly damaging	      0.87	    0.0657	     0.828
+Q6NT16              	   257	    T	    C	         ?	Q6NT16    	   257	  T	  C	 probably damaging	         1	   0.00026	   0.00018
+Q6NT16              	   257	    T	    Y	         ?	Q6NT16    	   257	  T	  Y	 possibly damaging	     0.942	    0.0552	     0.798
+Q6NT16              	   257	    T	    H	         ?	Q6NT16    	   257	  T	  H	 probably damaging	         1	   0.00026	   0.00018
+Q6NT16              	   257	    T	    R	         ?	Q6NT16    	   257	  T	  R	 probably damaging	     0.983	    0.0387	     0.745
+Q6NT16              	   257	    T	    N	         ?	Q6NT16    	   257	  T	  N	 possibly damaging	     0.835	    0.0687	     0.836
+Q6NT16              	   257	    T	    D	         ?	Q6NT16    	   257	  T	  D	 probably damaging	     0.991	    0.0326	     0.711
+Q6NT16              	   313	    T	    I	         ?	Q6NT16    	   313	  T	  I	            benign	     0.025	     0.189	     0.949
+Q6NT16              	   313	    T	    G	         ?	Q6NT16    	   313	  T	  G	            benign	      0.06	     0.161	     0.938
+Q6NT16              	   313	    T	    A	         ?	Q6NT16    	   313	  T	  A	            benign	     0.003	     0.556	     0.981
+Q6NT16              	   313	    T	    L	         ?	Q6NT16    	   313	  T	  L	            benign	     0.003	     0.556	     0.981
+Q6NT16              	   313	    T	    M	         ?	Q6NT16    	   313	  T	  M	            benign	     0.156	     0.133	     0.921
+Q6NT16              	   313	    T	    F	         ?	Q6NT16    	   313	  T	  F	            benign	     0.297	     0.114	     0.906
+Q6NT16              	   313	    T	    W	         ?	Q6NT16    	   313	  T	  W	 probably damaging	     0.994	    0.0289	     0.689
+Q6NT16              	   313	    T	    Q	         ?	Q6NT16    	   313	  T	  Q	 possibly damaging	     0.936	    0.0568	     0.802
+Q6NT16              	   313	    T	    K	         ?	Q6NT16    	   313	  T	  K	 possibly damaging	     0.607	    0.0914	     0.873
+Q6NT16              	   313	    T	    E	         ?	Q6NT16    	   313	  T	  E	            benign	     0.297	     0.114	     0.906
+Q6NT16              	   313	    T	    S	         ?	Q6NT16    	   313	  T	  S	            benign	     0.008	     0.239	     0.963
+Q6NT16              	   313	    T	    P	         ?	Q6NT16    	   313	  T	  P	 possibly damaging	     0.916	    0.0599	     0.812
+Q6NT16              	   313	    T	    V	         ?	Q6NT16    	   313	  T	  V	            benign	     0.032	      0.18	     0.946
+Q6NT16              	   313	    T	    C	         ?	Q6NT16    	   313	  T	  C	            benign	      0.06	     0.161	     0.938
+Q6NT16              	   313	    T	    Y	         ?	Q6NT16    	   313	  T	  Y	 possibly damaging	     0.936	    0.0568	     0.802
+Q6NT16              	   313	    T	    H	         ?	Q6NT16    	   313	  T	  H	 probably damaging	     0.994	    0.0289	     0.689
+Q6NT16              	   313	    T	    R	         ?	Q6NT16    	   313	  T	  R	 possibly damaging	     0.916	    0.0599	     0.812
+Q6NT16              	   313	    T	    N	         ?	Q6NT16    	   313	  T	  N	            benign	     0.297	     0.114	     0.906
+Q6NT16              	   313	    T	    D	         ?	Q6NT16    	   313	  T	  D	 possibly damaging	     0.878	    0.0649	     0.825
+Q6NT16              	   372	    T	    I	         ?	Q6NT16    	   372	  T	  I	 possibly damaging	     0.553	    0.0945	     0.878
+Q6NT16              	   372	    T	    G	         ?	Q6NT16    	   372	  T	  G	 possibly damaging	     0.901	    0.0625	     0.818
+Q6NT16              	   372	    T	    A	         ?	Q6NT16    	   372	  T	  A	 possibly damaging	      0.74	    0.0788	     0.854
+Q6NT16              	   372	    T	    L	         ?	Q6NT16    	   372	  T	  L	            benign	     0.054	     0.164	      0.94
+Q6NT16              	   372	    T	    M	         ?	Q6NT16    	   372	  T	  M	 probably damaging	     0.985	    0.0375	      0.74
+Q6NT16              	   372	    T	    F	         ?	Q6NT16    	   372	  T	  F	 probably damaging	     0.996	    0.0222	     0.545
+Q6NT16              	   372	    T	    W	         ?	Q6NT16    	   372	  T	  W	 probably damaging	     0.999	   0.00574	     0.136
+Q6NT16              	   372	    T	    Q	         ?	Q6NT16    	   372	  T	  Q	 possibly damaging	     0.901	    0.0625	     0.818
+Q6NT16              	   372	    T	    K	         ?	Q6NT16    	   372	  T	  K	 probably damaging	      0.99	    0.0338	     0.719
+Q6NT16              	   372	    T	    E	         ?	Q6NT16    	   372	  T	  E	 probably damaging	     0.985	    0.0375	      0.74
+Q6NT16              	   372	    T	    S	         ?	Q6NT16    	   372	  T	  S	 probably damaging	      0.99	    0.0338	     0.719
+Q6NT16              	   372	    T	    P	         ?	Q6NT16    	   372	  T	  P	 probably damaging	     0.997	    0.0167	     0.409
+Q6NT16              	   372	    T	    V	         ?	Q6NT16    	   372	  T	  V	 possibly damaging	     0.622	    0.0899	      0.87
+Q6NT16              	   372	    T	    C	         ?	Q6NT16    	   372	  T	  C	 possibly damaging	      0.79	    0.0735	     0.846
+Q6NT16              	   372	    T	    Y	         ?	Q6NT16    	   372	  T	  Y	 probably damaging	     0.999	   0.00574	     0.136
+Q6NT16              	   372	    T	    H	         ?	Q6NT16    	   372	  T	  H	 probably damaging	     0.999	   0.00574	     0.136
+Q6NT16              	   372	    T	    R	         ?	Q6NT16    	   372	  T	  R	 probably damaging	      0.99	    0.0338	     0.719
+Q6NT16              	   372	    T	    N	         ?	Q6NT16    	   372	  T	  N	 probably damaging	     0.997	    0.0167	     0.409
+Q6NT16              	   372	    T	    D	         ?	Q6NT16    	   372	  T	  D	 probably damaging	     0.997	    0.0167	     0.409
+Q6NT16              	   444	    T	    I	         ?	Q6NT16    	   444	  T	  I	 possibly damaging	     0.584	    0.0932	     0.875
+Q6NT16              	   444	    T	    G	         ?	Q6NT16    	   444	  T	  G	            benign	     0.103	     0.144	     0.929
+Q6NT16              	   444	    T	    A	         ?	Q6NT16    	   444	  T	  A	 possibly damaging	     0.536	    0.0951	      0.88
+Q6NT16              	   444	    T	    L	         ?	Q6NT16    	   444	  T	  L	            benign	     0.126	      0.14	     0.925
+Q6NT16              	   444	    T	    M	         ?	Q6NT16    	   444	  T	  M	            benign	     0.434	     0.102	     0.891
+Q6NT16              	   444	    T	    F	         ?	Q6NT16    	   444	  T	  F	 probably damaging	     0.964	    0.0472	     0.777
+Q6NT16              	   444	    T	    W	         ?	Q6NT16    	   444	  T	  W	 probably damaging	     0.997	    0.0167	     0.409
+Q6NT16              	   444	    T	    Q	         ?	Q6NT16    	   444	  T	  Q	            benign	     0.434	     0.102	     0.891
+Q6NT16              	   444	    T	    K	         ?	Q6NT16    	   444	  T	  K	            benign	     0.202	     0.125	     0.916
+Q6NT16              	   444	    T	    E	         ?	Q6NT16    	   444	  T	  E	            benign	     0.057	     0.162	     0.939
+Q6NT16              	   444	    T	    S	         ?	Q6NT16    	   444	  T	  S	            benign	     0.044	      0.17	     0.942
+Q6NT16              	   444	    T	    P	         ?	Q6NT16    	   444	  T	  P	            benign	     0.009	     0.233	     0.961
+Q6NT16              	   444	    T	    V	         ?	Q6NT16    	   444	  T	  V	            benign	     0.251	     0.118	     0.911
+Q6NT16              	   444	    T	    C	         ?	Q6NT16    	   444	  T	  C	 possibly damaging	      0.65	    0.0878	     0.866
+Q6NT16              	   444	    T	    Y	         ?	Q6NT16    	   444	  T	  Y	 probably damaging	     0.988	    0.0353	     0.727
+Q6NT16              	   444	    T	    H	         ?	Q6NT16    	   444	  T	  H	 probably damaging	     0.988	    0.0353	     0.727
+Q6NT16              	   444	    T	    R	         ?	Q6NT16    	   444	  T	  R	            benign	     0.367	     0.108	     0.898
+Q6NT16              	   444	    T	    N	         ?	Q6NT16    	   444	  T	  N	            benign	     0.126	      0.14	     0.925
+Q6NT16              	   444	    T	    D	         ?	Q6NT16    	   444	  T	  D	            benign	     0.012	     0.219	     0.958
+Q6NT16              	   449	    T	    I	         ?	Q6NT16    	   449	  T	  I	 possibly damaging	     0.748	     0.078	     0.853
+Q6NT16              	   449	    T	    G	         ?	Q6NT16    	   449	  T	  G	            benign	     0.359	     0.108	     0.898
+Q6NT16              	   449	    T	    A	         ?	Q6NT16    	   449	  T	  A	            benign	     0.001	     0.852	     0.994
+Q6NT16              	   449	    T	    L	         ?	Q6NT16    	   449	  T	  L	            benign	     0.359	     0.108	     0.898
+Q6NT16              	   449	    T	    M	         ?	Q6NT16    	   449	  T	  M	 probably damaging	      0.96	    0.0483	     0.781
+Q6NT16              	   449	    T	    F	         ?	Q6NT16    	   449	  T	  F	 possibly damaging	     0.888	     0.064	     0.822
+Q6NT16              	   449	    T	    W	         ?	Q6NT16    	   449	  T	  W	 probably damaging	     0.989	    0.0346	     0.723
+Q6NT16              	   449	    T	    Q	         ?	Q6NT16    	   449	  T	  Q	 possibly damaging	     0.797	    0.0728	     0.844
+Q6NT16              	   449	    T	    K	         ?	Q6NT16    	   449	  T	  K	            benign	     0.359	     0.108	     0.898
+Q6NT16              	   449	    T	    E	         ?	Q6NT16    	   449	  T	  E	 possibly damaging	     0.528	    0.0956	     0.881
+Q6NT16              	   449	    T	    S	         ?	Q6NT16    	   449	  T	  S	            benign	     0.149	     0.134	     0.922
+Q6NT16              	   449	    T	    P	         ?	Q6NT16    	   449	  T	  P	 possibly damaging	     0.857	    0.0669	     0.831
+Q6NT16              	   449	    T	    V	         ?	Q6NT16    	   449	  T	  V	            benign	     0.359	     0.108	     0.898
+Q6NT16              	   449	    T	    C	         ?	Q6NT16    	   449	  T	  C	 probably damaging	     0.968	    0.0455	     0.772
+Q6NT16              	   449	    T	    Y	         ?	Q6NT16    	   449	  T	  Y	 probably damaging	      0.96	    0.0483	     0.781
+Q6NT16              	   449	    T	    H	         ?	Q6NT16    	   449	  T	  H	 probably damaging	     0.989	    0.0346	     0.723
+Q6NT16              	   449	    T	    R	         ?	Q6NT16    	   449	  T	  R	            benign	     0.003	     0.556	     0.981
+Q6NT16              	   449	    T	    N	         ?	Q6NT16    	   449	  T	  N	 possibly damaging	     0.857	    0.0669	     0.831
+Q6NT16              	   449	    T	    D	         ?	Q6NT16    	   449	  T	  D	 possibly damaging	     0.888	     0.064	     0.822
+## Sources:
+##   Predictions: PolyPhen-2 v2.2.3r406
+##   Sequences:   UniProtKB/UniRef100 Release 2011_12 (14-Dec-2011)
+##   Structures:  PDB/DSSP Snapshot 25-May-2021 (178229 Structures)
+##   Genes:       UCSC MultiZ46Way GRCh37/hg19 (08-Oct-2009)

@@ -1,0 +1,139 @@
+#o_acc               	 o_pos	o_aa1	o_aa2	rsid      	acc       	   pos	aa1	aa2	        prediction	 pph2_prob	  pph2_FPR	  pph2_TPR
+Q16572              	   163	    F	    Y	         ?	Q16572    	   163	  F	  Y	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   163	    F	    G	         ?	Q16572    	   163	  F	  G	 possibly damaging	     0.891	    0.0637	     0.821
+Q16572              	   163	    F	    A	         ?	Q16572    	   163	  F	  A	 probably damaging	     0.975	    0.0436	     0.762
+Q16572              	   163	    F	    L	         ?	Q16572    	   163	  F	  L	 probably damaging	     0.985	    0.0375	      0.74
+Q16572              	   163	    F	    M	         ?	Q16572    	   163	  F	  M	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   163	    F	    V	         ?	Q16572    	   163	  F	  V	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   163	    F	    W	         ?	Q16572    	   163	  F	  W	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   163	    F	    Q	         ?	Q16572    	   163	  F	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   163	    F	    K	         ?	Q16572    	   163	  F	  K	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   163	    F	    E	         ?	Q16572    	   163	  F	  E	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   163	    F	    S	         ?	Q16572    	   163	  F	  S	 possibly damaging	     0.935	     0.057	     0.803
+Q16572              	   163	    F	    P	         ?	Q16572    	   163	  F	  P	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   163	    F	    I	         ?	Q16572    	   163	  F	  I	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   163	    F	    C	         ?	Q16572    	   163	  F	  C	 probably damaging	     0.988	    0.0353	     0.727
+Q16572              	   163	    F	    T	         ?	Q16572    	   163	  F	  T	 probably damaging	     0.996	    0.0222	     0.545
+Q16572              	   163	    F	    H	         ?	Q16572    	   163	  F	  H	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   163	    F	    R	         ?	Q16572    	   163	  F	  R	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   163	    F	    N	         ?	Q16572    	   163	  F	  N	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   163	    F	    D	         ?	Q16572    	   163	  F	  D	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    Y	         ?	Q16572    	   169	  F	  Y	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    G	         ?	Q16572    	   169	  F	  G	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    A	         ?	Q16572    	   169	  F	  A	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    L	         ?	Q16572    	   169	  F	  L	 probably damaging	     0.968	    0.0455	     0.772
+Q16572              	   169	    F	    M	         ?	Q16572    	   169	  F	  M	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    V	         ?	Q16572    	   169	  F	  V	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    W	         ?	Q16572    	   169	  F	  W	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    Q	         ?	Q16572    	   169	  F	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    K	         ?	Q16572    	   169	  F	  K	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    E	         ?	Q16572    	   169	  F	  E	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    S	         ?	Q16572    	   169	  F	  S	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    P	         ?	Q16572    	   169	  F	  P	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    I	         ?	Q16572    	   169	  F	  I	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    C	         ?	Q16572    	   169	  F	  C	 probably damaging	     0.997	    0.0167	     0.409
+Q16572              	   169	    F	    T	         ?	Q16572    	   169	  F	  T	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    H	         ?	Q16572    	   169	  F	  H	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    R	         ?	Q16572    	   169	  F	  R	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    N	         ?	Q16572    	   169	  F	  N	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   169	    F	    D	         ?	Q16572    	   169	  F	  D	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   171	    F	    Y	         ?	Q16572    	   171	  F	  Y	 probably damaging	     0.997	    0.0167	     0.409
+Q16572              	   171	    F	    G	         ?	Q16572    	   171	  F	  G	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   171	    F	    A	         ?	Q16572    	   171	  F	  A	 probably damaging	     0.961	     0.048	      0.78
+Q16572              	   171	    F	    L	         ?	Q16572    	   171	  F	  L	            benign	     0.094	     0.147	     0.931
+Q16572              	   171	    F	    M	         ?	Q16572    	   171	  F	  M	 probably damaging	     0.994	    0.0289	     0.689
+Q16572              	   171	    F	    V	         ?	Q16572    	   171	  F	  V	            benign	     0.418	     0.103	     0.893
+Q16572              	   171	    F	    W	         ?	Q16572    	   171	  F	  W	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   171	    F	    Q	         ?	Q16572    	   171	  F	  Q	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   171	    F	    K	         ?	Q16572    	   171	  F	  K	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   171	    F	    E	         ?	Q16572    	   171	  F	  E	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   171	    F	    S	         ?	Q16572    	   171	  F	  S	 probably damaging	     0.992	    0.0314	     0.704
+Q16572              	   171	    F	    P	         ?	Q16572    	   171	  F	  P	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   171	    F	    I	         ?	Q16572    	   171	  F	  I	            benign	     0.198	     0.125	     0.916
+Q16572              	   171	    F	    C	         ?	Q16572    	   171	  F	  C	            benign	     0.118	     0.141	     0.927
+Q16572              	   171	    F	    T	         ?	Q16572    	   171	  F	  T	 probably damaging	     0.994	    0.0289	     0.689
+Q16572              	   171	    F	    H	         ?	Q16572    	   171	  F	  H	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   171	    F	    R	         ?	Q16572    	   171	  F	  R	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   171	    F	    N	         ?	Q16572    	   171	  F	  N	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   171	    F	    D	         ?	Q16572    	   171	  F	  D	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   191	    F	    Y	         ?	Q16572    	   191	  F	  Y	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   191	    F	    G	         ?	Q16572    	   191	  F	  G	 possibly damaging	     0.953	    0.0514	     0.788
+Q16572              	   191	    F	    A	         ?	Q16572    	   191	  F	  A	 possibly damaging	     0.886	     0.064	     0.822
+Q16572              	   191	    F	    L	         ?	Q16572    	   191	  F	  L	            benign	     0.333	     0.111	     0.902
+Q16572              	   191	    F	    M	         ?	Q16572    	   191	  F	  M	 probably damaging	     0.997	    0.0167	     0.409
+Q16572              	   191	    F	    V	         ?	Q16572    	   191	  F	  V	 possibly damaging	     0.592	    0.0924	     0.874
+Q16572              	   191	    F	    W	         ?	Q16572    	   191	  F	  W	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   191	    F	    Q	         ?	Q16572    	   191	  F	  Q	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   191	    F	    K	         ?	Q16572    	   191	  F	  K	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   191	    F	    E	         ?	Q16572    	   191	  F	  E	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   191	    F	    S	         ?	Q16572    	   191	  F	  S	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   191	    F	    P	         ?	Q16572    	   191	  F	  P	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   191	    F	    I	         ?	Q16572    	   191	  F	  I	 possibly damaging	     0.771	    0.0758	      0.85
+Q16572              	   191	    F	    C	         ?	Q16572    	   191	  F	  C	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   191	    F	    T	         ?	Q16572    	   191	  F	  T	 probably damaging	     0.997	    0.0167	     0.409
+Q16572              	   191	    F	    H	         ?	Q16572    	   191	  F	  H	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   191	    F	    R	         ?	Q16572    	   191	  F	  R	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   191	    F	    N	         ?	Q16572    	   191	  F	  N	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   191	    F	    D	         ?	Q16572    	   191	  F	  D	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   392	    F	    Y	         ?	Q16572    	   392	  F	  Y	 possibly damaging	     0.937	    0.0566	     0.801
+Q16572              	   392	    F	    G	         ?	Q16572    	   392	  F	  G	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    A	         ?	Q16572    	   392	  F	  A	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   392	    F	    L	         ?	Q16572    	   392	  F	  L	 probably damaging	     0.989	    0.0346	     0.723
+Q16572              	   392	    F	    M	         ?	Q16572    	   392	  F	  M	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    V	         ?	Q16572    	   392	  F	  V	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   392	    F	    W	         ?	Q16572    	   392	  F	  W	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    Q	         ?	Q16572    	   392	  F	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    K	         ?	Q16572    	   392	  F	  K	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    E	         ?	Q16572    	   392	  F	  E	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    S	         ?	Q16572    	   392	  F	  S	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    P	         ?	Q16572    	   392	  F	  P	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    I	         ?	Q16572    	   392	  F	  I	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   392	    F	    C	         ?	Q16572    	   392	  F	  C	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    T	         ?	Q16572    	   392	  F	  T	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    H	         ?	Q16572    	   392	  F	  H	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    R	         ?	Q16572    	   392	  F	  R	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    N	         ?	Q16572    	   392	  F	  N	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   392	    F	    D	         ?	Q16572    	   392	  F	  D	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   407	    F	    Y	         ?	Q16572    	   407	  F	  Y	            benign	     0.053	     0.164	      0.94
+Q16572              	   407	    F	    G	         ?	Q16572    	   407	  F	  G	 probably damaging	     0.996	    0.0222	     0.545
+Q16572              	   407	    F	    A	         ?	Q16572    	   407	  F	  A	 possibly damaging	     0.929	    0.0579	     0.806
+Q16572              	   407	    F	    L	         ?	Q16572    	   407	  F	  L	            benign	     0.067	     0.158	     0.936
+Q16572              	   407	    F	    M	         ?	Q16572    	   407	  F	  M	 probably damaging	     0.994	    0.0289	     0.689
+Q16572              	   407	    F	    V	         ?	Q16572    	   407	  F	  V	 possibly damaging	     0.831	    0.0691	     0.837
+Q16572              	   407	    F	    W	         ?	Q16572    	   407	  F	  W	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   407	    F	    Q	         ?	Q16572    	   407	  F	  Q	 probably damaging	     0.989	    0.0346	     0.723
+Q16572              	   407	    F	    K	         ?	Q16572    	   407	  F	  K	 probably damaging	     0.989	    0.0346	     0.723
+Q16572              	   407	    F	    E	         ?	Q16572    	   407	  F	  E	 probably damaging	     0.989	    0.0346	     0.723
+Q16572              	   407	    F	    S	         ?	Q16572    	   407	  F	  S	 possibly damaging	     0.892	    0.0636	     0.821
+Q16572              	   407	    F	    P	         ?	Q16572    	   407	  F	  P	 probably damaging	     0.996	    0.0222	     0.545
+Q16572              	   407	    F	    I	         ?	Q16572    	   407	  F	  I	 possibly damaging	     0.945	     0.054	     0.796
+Q16572              	   407	    F	    C	         ?	Q16572    	   407	  F	  C	 probably damaging	     0.999	   0.00574	     0.136
+Q16572              	   407	    F	    T	         ?	Q16572    	   407	  F	  T	 probably damaging	     0.989	    0.0346	     0.723
+Q16572              	   407	    F	    H	         ?	Q16572    	   407	  F	  H	 possibly damaging	     0.481	    0.0984	     0.886
+Q16572              	   407	    F	    R	         ?	Q16572    	   407	  F	  R	 probably damaging	     0.989	    0.0346	     0.723
+Q16572              	   407	    F	    N	         ?	Q16572    	   407	  F	  N	 probably damaging	     0.989	    0.0346	     0.723
+Q16572              	   407	    F	    D	         ?	Q16572    	   407	  F	  D	 probably damaging	     0.996	    0.0222	     0.545
+Q16572              	   448	    F	    Y	         ?	Q16572    	   448	  F	  Y	 probably damaging	     0.972	    0.0442	     0.766
+Q16572              	   448	    F	    G	         ?	Q16572    	   448	  F	  G	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    A	         ?	Q16572    	   448	  F	  A	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    L	         ?	Q16572    	   448	  F	  L	 probably damaging	     0.998	    0.0112	     0.273
+Q16572              	   448	    F	    M	         ?	Q16572    	   448	  F	  M	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    V	         ?	Q16572    	   448	  F	  V	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    W	         ?	Q16572    	   448	  F	  W	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    Q	         ?	Q16572    	   448	  F	  Q	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    K	         ?	Q16572    	   448	  F	  K	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    E	         ?	Q16572    	   448	  F	  E	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    S	         ?	Q16572    	   448	  F	  S	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    P	         ?	Q16572    	   448	  F	  P	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    I	         ?	Q16572    	   448	  F	  I	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    C	         ?	Q16572    	   448	  F	  C	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    T	         ?	Q16572    	   448	  F	  T	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    H	         ?	Q16572    	   448	  F	  H	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    R	         ?	Q16572    	   448	  F	  R	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    N	         ?	Q16572    	   448	  F	  N	 probably damaging	         1	   0.00026	   0.00018
+Q16572              	   448	    F	    D	         ?	Q16572    	   448	  F	  D	 probably damaging	         1	   0.00026	   0.00018
+## Sources:
+##   Predictions: PolyPhen-2 v2.2.3r406
+##   Sequences:   UniProtKB/UniRef100 Release 2011_12 (14-Dec-2011)
+##   Structures:  PDB/DSSP Snapshot 25-May-2021 (178229 Structures)
+##   Genes:       UCSC MultiZ46Way GRCh37/hg19 (08-Oct-2009)
